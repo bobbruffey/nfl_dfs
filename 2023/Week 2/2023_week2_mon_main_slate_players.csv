@@ -1,0 +1,136 @@
+keep,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,Tier,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier2,,,Roster Position
+x,93996-53562:Nick Chubb,93996-53562,RB,Nick,Nick Chubb,Chubb,5,14.69999981,1,10000,CLE@PIT,CLE,PIT,,,,,,RB/FLEX
+x,93996-87770:Chris Olave,93996-87770,WR,Chris,Chris Olave,Olave,4,15.19999981,1,8500,NO@CAR,NO,CAR,,,,,,WR/FLEX
+x,93996-54879:Deshaun Watson,93996-54879,QB,Deshaun,Deshaun Watson,Watson,5,21.65999985,1,8300,CLE@PIT,CLE,PIT,,,,,,QB
+x,93996-45631:Jamaal Williams,93996-45631,RB,Jamaal,Jamaal Williams,Williams,5,6.199999809,1,7500,NO@CAR,NO,CAR,,,,,,RB/FLEX
+x,93996-45859:Derek Carr,93996-45859,QB,Derek,Derek Carr,Carr,5,15.60000038,1,7400,NO@CAR,NO,CAR,,,,,,QB
+,93996-31001:Amari Cooper,93996-31001,WR,Amari,Amari Cooper,Cooper,,5.199999809,1,7100,CLE@PIT,CLE,PIT,Q,Groin,,,,WR/FLEX
+x,93996-90575:Najee Harris,93996-90575,RB,Najee,Najee Harris,Harris,4,4.300000191,1,7000,CLE@PIT,PIT,CLE,,,,,,RB/FLEX
+x,93996-92020:Kenny Pickett,93996-92020,QB,Kenny,Kenny Pickett,Pickett,3,11.68000031,1,6900,CLE@PIT,PIT,CLE,,,,,,QB
+x,93996-110246:George Pickens,93996-110246,WR,George,George Pickens,Pickens,3,6.099999905,1,6600,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+x,93996-119606:Bryce Young,93996-119606,QB,Bryce,Bryce Young,Young,2,9.539999962,1,6400,NO@CAR,CAR,NO,,,,,,QB
+x,93996-71845:Miles Sanders,93996-71845,RB,Miles,Miles Sanders,Sanders,3,9.800000191,1,6400,NO@CAR,CAR,NO,,,,,,RB/FLEX
+x,93996-170287:Rashid Shaheed,93996-170287,WR,Rashid,Rashid Shaheed,Shaheed,3,16.5,1,6200,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-14225:Andy Dalton,93996-14225,QB,Andy,Andy Dalton,Dalton,,13.08857182,14,6200,NO@CAR,CAR,NO,,,,,,QB
+,93996-24849:Jameis Winston,93996-24849,QB,Jameis,Jameis Winston,Winston,,16.30666606,3,6100,NO@CAR,NO,CAR,,,,,,QB
+,93996-41827:P.J. Walker,93996-41827,QB,P.J.,P.J. Walker,Walker,,7.023333232,6,6100,CLE@PIT,CLE,PIT,,,,,,QB
+,93996-38628:Mitch Trubisky,93996-38628,QB,Mitch,Mitch Trubisky,Trubisky,,11.26857104,7,6100,CLE@PIT,PIT,CLE,,,,,,QB
+,93996-86793:Jake Haener,93996-86793,QB,Jake,Jake Haener,Haener,,,,6000,NO@CAR,NO,CAR,IR,Suspension,,,,QB
+x,93996-64031:Hayden Hurst,93996-64031,TE,Hayden,Hayden Hurst,Hurst,3,12.60000038,1,6000,NO@CAR,CAR,NO,,,,,,TE/FLEX
+,93996-94797:Kellen Mond,93996-94797,QB,Kellen,Kellen Mond,Mond,,,,6000,CLE@PIT,CLE,PIT,,,,,,QB
+,93996-85860:Tanner Morgan,93996-85860,QB,Tanner,Tanner Morgan,Morgan,,,,6000,CLE@PIT,PIT,CLE,,,,,,QB
+,93996-42104:Alvin Kamara,93996-42104,RB,Alvin,Alvin Kamara,Kamara,,12.21333313,15,6000,NO@CAR,NO,CAR,IR,Suspension,,,,RB/FLEX
+,93996-52929:Jake Luton,93996-52929,QB,Jake,Jake Luton,Luton,,,,6000,NO@CAR,CAR,NO,,,,,,QB
+,93996-66008:Diontae Johnson,93996-66008,WR,Diontae,Diontae Johnson,Johnson,,6.300000191,1,6000,CLE@PIT,PIT,CLE,O,Hamstring,,,,WR/FLEX
+,93996-53729:Mason Rudolph,93996-53729,QB,Mason,Mason Rudolph,Rudolph,,,,6000,CLE@PIT,PIT,CLE,,,,,,QB
+,93996-91898:Dorian Thompson-Robinson,93996-91898,QB,Dorian,Dorian Thompson-Robinson,Thompson-Robinson,,,,6000,CLE@PIT,CLE,PIT,,,,,,QB
+x,93996-88575:Elijah Moore,93996-88575,WR,Elijah,Elijah Moore,Moore,3,7.699999809,1,5900,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+x,93996-28573:Michael Thomas,93996-28573,WR,Michael,Michael Thomas,Thomas,3,8.600000381,1,5800,NO@CAR,NO,CAR,,,,,,WR/FLEX
+x,93996-28643:Allen Robinson II,93996-28643,WR,Allen,Allen Robinson II,Robinson II,2,8.899999619,1,5800,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+x,93996-86244:Pat Freiermuth,93996-86244,TE,Pat,Pat Freiermuth,Freiermuth,3,6.800000191,1,5800,CLE@PIT,PIT,CLE,,,,,,TE/FLEX
+x,93996-39716:Adam Thielen,93996-39716,WR,Adam,Adam Thielen,Thielen,1,2.200000048,1,5700,NO@CAR,CAR,NO,,,,,,WR/FLEX
+x,93996-87467:Chuba Hubbard,93996-87467,RB,Chuba,Chuba Hubbard,Hubbard,1,7.900000095,1,5700,NO@CAR,CAR,NO,,,,,,RB/FLEX
+x,93996-91426:Donovan Peoples-Jones,93996-91426,WR,Donovan,Donovan Peoples-Jones,Peoples-Jones,2,1.700000048,1,5600,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+x,93996-112057:Jaylen Warren,93996-112057,RB,Jaylen,Jaylen Warren,Warren,1,4.300000191,1,5600,CLE@PIT,PIT,CLE,,,,,,RB/FLEX
+x,93996-64808:Juwan Johnson,93996-64808,TE,Juwan,Juwan Johnson,Johnson,3,5.099999905,1,5500,NO@CAR,NO,CAR,,,,,,TE/FLEX
+,93996-52917:DJ Chark Jr.,93996-52917,WR,DJ,DJ Chark Jr.,Chark Jr.,,7.563636086,11,5500,NO@CAR,CAR,NO,Q,Hamstring,,,,WR/FLEX
+x,93996-45565:Taysom Hill,93996-45565,TE,Taysom,Taysom Hill,Hill,1,0.400000006,1,5500,NO@CAR,NO,CAR,,,,,,TE/FLEX
+x,93996-55335:David Njoku,93996-55335,TE,David,David Njoku,Njoku,2,3.400000095,1,5400,CLE@PIT,CLE,PIT,,,,,,TE/FLEX
+x,93996-85672:Terrace Marshall Jr.,93996-85672,WR,Terrace,Terrace Marshall Jr.,Marshall Jr.,2,3.299999952,1,5400,NO@CAR,CAR,NO,,,,,,WR/FLEX
+x,93996-87859:Laviska Shenault Jr.,93996-87859,WR,Laviska,Laviska Shenault Jr.,Shenault Jr.,1,3.099999905,1,5200,NO@CAR,CAR,NO,,,,,,WR/FLEX
+x,93996-90533:Jerome Ford,93996-90533,RB,Jerome,Jerome Ford,Ford,1,1.600000024,1,5100,CLE@PIT,CLE,PIT,,,,,,RB/FLEX
+x,93996-92882:Connor Heyward,93996-92882,TE,Connor,Connor Heyward,Heyward,1,2.900000095,1,5000,CLE@PIT,PIT,CLE,,,,,,TE/FLEX
+x,93996-90870:Calvin Austin III,93996-90870,WR,Calvin,Calvin Austin III,Austin III,2,6.699999809,1,5000,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+x,93996-112192:Jonathan Mingo,93996-112192,WR,Jonathan,Jonathan Mingo,Mingo,1,2.700000048,1,4800,NO@CAR,CAR,NO,,,,,,WR/FLEX
+,93996-120657:Kendre Miller,93996-120657,RB,Kendre,Kendre Miller,Miller,,,,4800,NO@CAR,NO,CAR,Q,Hamstring,,,,RB/FLEX
+x,93996-70601:Harrison Bryant,93996-70601,TE,Harrison,Harrison Bryant,Bryant,1,7.5,1,4800,CLE@PIT,CLE,PIT,,,,,,TE/FLEX
+,93996-91677:Shi Smith,93996-91677,WR,Shi,Shi Smith,Smith,,3.162499905,16,4700,NO@CAR,CAR,NO,,,,,,WR/FLEX
+x,93996-12542:New Orleans Saints,93996-12542,D,New Orleans,New Orleans Saints,Saints,4,10,1,4700,NO@CAR,NO,CAR,,,,,,DEF
+,93996-32243:Marquise Goodwin,93996-32243,WR,Marquise,Marquise Goodwin,Goodwin,,0,1,4600,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+,93996-60712:Foster Moreau,93996-60712,TE,Foster,Foster Moreau,Moreau,,4.907142639,14,4500,NO@CAR,NO,CAR,,,,,,TE/FLEX
+,93996-73121:Tony Jones Jr.,93996-73121,RB,Tony,Tony Jones Jr.,Jones Jr.,,0.5,1,4500,NO@CAR,NO,CAR,,,,,,RB/FLEX
+,93996-88277:Anthony McFarland Jr.,93996-88277,RB,Anthony,Anthony McFarland Jr.,McFarland Jr.,,2.099999905,1,4500,CLE@PIT,PIT,CLE,O,Knee,,,,RB/FLEX
+,93996-30678:Damiere Byrd,93996-30678,WR,Damiere,Damiere Byrd,Byrd,,3.774999936,12,4500,NO@CAR,CAR,NO,Q,Hamstring,,,,WR/FLEX
+,93996-92890:Cody White,93996-92890,WR,Cody,Cody White,White,,0.699999988,1,4500,CLE@PIT,PIT,CLE,Q,Undisclosed,,,,WR/FLEX
+,93996-52897:Darrel Williams,93996-52897,RB,Darrel,Darrel Williams,Williams,,3.820000076,5,4400,NO@CAR,NO,CAR,,,,,,RB/FLEX
+x,93996-12529:Cleveland Browns,93996-12529,D,Cleveland,Cleveland Browns,Browns,3,9,1,4400,CLE@PIT,CLE,PIT,,,,,,DEF
+,93996-57338:Jordan Akins,93996-57338,TE,Jordan,Jordan Akins,Akins,,1.700000048,1,4400,CLE@PIT,CLE,PIT,,,,,,TE/FLEX
+,93996-57342:Tre'Quan Smith,93996-57342,WR,Tre'Quan,Tre'Quan Smith,Smith,,4.811111026,9,4400,NO@CAR,NO,CAR,IR,Groin,,,,WR/FLEX
+,93996-85762:Eno Benjamin,93996-85762,RB,Eno,Eno Benjamin,Benjamin,,5.930769113,13,4300,NO@CAR,NO,CAR,IR,Achilles,,,,RB/FLEX
+,93996-64827:Miles Boykin,93996-64827,WR,Miles,Miles Boykin,Boykin,,0.699999968,3,4300,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+,93996-133477:Darnell Washington,93996-133477,TE,Darnell,Darnell Washington,Washington,,,,4300,CLE@PIT,PIT,CLE,,,,,,TE/FLEX
+,93996-79974:Tarik Cohen,93996-79974,RB,Tarik,Tarik Cohen,Cohen,,,,4300,NO@CAR,CAR,NO,,,,,,RB/FLEX
+,93996-45997:Keith Kirkwood,93996-45997,WR,Keith,Keith Kirkwood,Kirkwood,,0,1,4300,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-114180:David Bell,93996-114180,WR,David,David Bell,Bell,,0,1,4200,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+,93996-71723:Dez Fitzpatrick,93996-71723,WR,Dez,Dez Fitzpatrick,Fitzpatrick,,,,4200,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+,93996-160306:Pierre Strong Jr.,93996-160306,RB,Pierre,Pierre Strong Jr.,Strong Jr.,,3.950000127,6,4200,CLE@PIT,CLE,PIT,,,,,,RB/FLEX
+,93996-72515:Ian Thomas,93996-72515,TE,Ian,Ian Thomas,Thomas,,2.323076982,13,4200,NO@CAR,CAR,NO,,,,,,TE/FLEX
+,93996-87621:A.T. Perry,93996-87621,WR,A.T.,A.T. Perry,Perry,,,,4200,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-92590:Raheem Blackshear,93996-92590,RB,Raheem,Raheem Blackshear,Blackshear,,2.923076923,13,4200,NO@CAR,CAR,NO,,,,,,RB/FLEX
+,93996-65477:Giovanni Ricci,93996-65477,TE,Giovanni,Giovanni Ricci,Ricci,,0.699999988,1,4200,NO@CAR,CAR,NO,,,,,,TE/FLEX
+,93996-93404:Zander Horvath,93996-93404,RB,Zander,Zander Horvath,Horvath,,2.012500048,8,4200,CLE@PIT,PIT,CLE,,,,,,RB/FLEX
+,93996-11512:Jimmy Graham,93996-11512,TE,Jimmy,Jimmy Graham,Graham,,,,4200,NO@CAR,NO,CAR,,,,,,TE/FLEX
+,93996-87122:Lynn Bowden Jr.,93996-87122,WR,Lynn,Lynn Bowden Jr.,Bowden Jr.,,,,4100,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-86113:Ihmir Smith-Marsette,93996-86113,WR,Ihmir,Ihmir Smith-Marsette,Smith-Marsette,,0,1,4100,NO@CAR,CAR,NO,,,,,,WR/FLEX
+,93996-87662:Anthony Schwartz,93996-87662,WR,Anthony,Anthony Schwartz,Schwartz,,2.799999873,6,4100,CLE@PIT,CLE,PIT,IR,Hamstring,,,,WR/FLEX
+,93996-104577:Gunner Olszewski,93996-104577,WR,Gunner,Gunner Olszewski,Olszewski,,0.746153831,13,4100,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+,93996-87432:Cedric Tillman,93996-87432,WR,Cedric,Cedric Tillman,Tillman,,,,4100,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+,93996-41867:Jordan Wilkins,93996-41867,RB,Jordan,Jordan Wilkins,Wilkins,,2.924999952,4,4100,CLE@PIT,CLE,PIT,,,,,,RB/FLEX
+,93996-89997:Michael Woods II,93996-89997,WR,Michael,Michael Woods II,Woods II,,1.083333333,6,4100,CLE@PIT,CLE,PIT,IR,Achilles,,,,WR/FLEX
+,93996-89785:Spencer Brown,93996-89785,RB,Spencer,Spencer Brown,Brown,,3.150000095,2,4100,NO@CAR,CAR,NO,,,,,,RB/FLEX
+,93996-91101:Tommy Tremble,93996-91101,TE,Tommy,Tommy Tremble,Tremble,,3.064285823,14,4100,NO@CAR,CAR,NO,,,,,,TE/FLEX
+,93996-152320:Tiyon Evans,93996-152320,RB,Tiyon,Tiyon Evans,Evans,,,,4000,NO@CAR,CAR,NO,,,,,,RB/FLEX
+,93996-128515:Ellis Merriweather,93996-128515,RB,Ellis,Ellis Merriweather,Merriweather,,,,4000,NO@CAR,NO,CAR,,,,,,RB/FLEX
+,93996-115971:Shaq Davis,93996-115971,WR,Shaq,Shaq Davis,Davis,,,,4000,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-69383:Dezmon Patmon,93996-69383,WR,Dezmon,Dezmon Patmon,Patmon,,3.400000095,1,4000,NO@CAR,CAR,NO,,,,,,WR/FLEX
+,93996-89613:Simi Fehoko,93996-89613,WR,Simi,Simi Fehoko,Fehoko,,1.950000048,2,4000,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+,93996-69655:Stephen Sullivan,93996-69655,TE,Stephen,Stephen Sullivan,Sullivan,,0.933333317,6,4000,NO@CAR,CAR,NO,IR,Undisclosed,,,,TE/FLEX
+,93996-28694:Jesse James,93996-28694,TE,Jesse,Jesse James,James,,,,4000,NO@CAR,NO,CAR,,,,,,TE/FLEX
+,93996-91679:Josh Vann,93996-91679,WR,Josh,Josh Vann,Vann,,,,4000,NO@CAR,CAR,NO,,,,,,WR/FLEX
+,93996-185893:Alfonzo Graham,93996-185893,RB,Alfonzo,Alfonzo Graham,Graham,,,,4000,CLE@PIT,PIT,CLE,IR,Undisclosed,,,,RB/FLEX
+,93996-86068:Jacob Copeland,93996-86068,WR,Jacob,Jacob Copeland,Copeland,,,,4000,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+,93996-60984:Jake Bargas,93996-60984,TE,Jake,Jake Bargas,Bargas,,,,4000,NO@CAR,NO,CAR,,,,,,TE/FLEX
+,93996-174907:Sy Barnett,93996-174907,WR,Sy,Sy Barnett,Barnett,,,,4000,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-89656:Aron Cruickshank,93996-89656,WR,Aron,Aron Cruickshank,Cruickshank,,,,4000,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+,93996-158520:Daylen Baldwin,93996-158520,WR,Daylen,Daylen Baldwin,Baldwin,,3.5,1,4000,CLE@PIT,CLE,PIT,Q,Hamstring,,,,WR/FLEX
+,93996-71228:Marquez Stevenson,93996-71228,WR,Marquez,Marquez Stevenson,Stevenson,,,,4000,NO@CAR,CAR,NO,Q,Undisclosed,,,,WR/FLEX
+,93996-92990:Hassan Hall,93996-92990,RB,Hassan,Hassan Hall,Hall,,,,4000,CLE@PIT,CLE,PIT,,,,,,RB/FLEX
+,93996-55366:Qadree Ollison,93996-55366,RB,Qadree,Qadree Ollison,Ollison,,,,4000,CLE@PIT,PIT,CLE,,,,,,RB/FLEX
+,93996-73551:Stantley Thomas-Oliver III,93996-73551,WR,Stantley,Stantley Thomas-Oliver III,Thomas-Oliver III,,,,4000,NO@CAR,CAR,NO,O,Hamstring,,,,WR/FLEX
+,93996-91989:Jordan Mims,93996-91989,RB,Jordan,Jordan Mims,Mims,,,,4000,NO@CAR,NO,CAR,,,,,,RB/FLEX
+,93996-89172:John Lovett,93996-89172,RB,John,John Lovett,Lovett,,,,4000,CLE@PIT,PIT,CLE,,,,,,RB/FLEX
+,93996-63061:Gary Jennings,93996-63061,WR,Gary,Gary Jennings,Jennings,,,,4000,NO@CAR,CAR,NO,,,,,,WR/FLEX
+,93996-63576:Kirk Merritt,93996-63576,WR,Kirk,Kirk Merritt,Merritt,,,,4000,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-86108:Monte Pottebaum,93996-86108,RB,Monte,Monte Pottebaum,Pottebaum,,,,4000,CLE@PIT,PIT,CLE,IR,Undisclosed,,,,RB/FLEX
+,93996-25957:J.P. Holtz,93996-25957,TE,J.P.,J.P. Holtz,Holtz,,,,4000,NO@CAR,NO,CAR,,,,,,TE/FLEX
+,93996-153957:Zaire Mitchell-Paden,93996-153957,TE,Zaire,Zaire Mitchell-Paden,Mitchell-Paden,,,,4000,CLE@PIT,CLE,PIT,,,,,,TE/FLEX
+,93996-66155:Michael Jacobson,93996-66155,TE,Michael,Michael Jacobson,Jacobson,,,,4000,NO@CAR,NO,CAR,,,,,,TE/FLEX
+,93996-94314:Camerun Peoples,93996-94314,RB,Camerun,Camerun Peoples,Peoples,,,,4000,NO@CAR,CAR,NO,,,,,,RB/FLEX
+,93996-60791:Tommy Hudson,93996-60791,TE,Tommy,Tommy Hudson,Hudson,,,,4000,NO@CAR,NO,CAR,,,,,,TE/FLEX
+,93996-91012:Greg Bell,93996-91012,RB,Greg,Greg Bell,Bell,,,,4000,CLE@PIT,PIT,CLE,,,,,,RB/FLEX
+,93996-185743:Darius Hagans,93996-185743,RB,Darius,Darius Hagans,Hagans,,,,4000,CLE@PIT,PIT,CLE,,,,,,RB/FLEX
+,93996-94864:Jashaun Corbin,93996-94864,RB,Jashaun,Jashaun Corbin,Corbin,,,,4000,NO@CAR,CAR,NO,,,,,,RB/FLEX
+,93996-64405:Dan Chisena,93996-64405,WR,Dan,Dan Chisena,Chisena,,,,4000,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+,93996-69276:Bryan Edwards,93996-69276,WR,Bryan,Bryan Edwards,Edwards,,0.75,4,4000,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-94118:Mike Harley Jr.,93996-94118,WR,Mike,Mike Harley Jr.,Harley Jr.,,,,4000,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+,93996-64175:Hakeem Butler,93996-64175,WR,Hakeem,Hakeem Butler,Butler,,,,4000,CLE@PIT,PIT,CLE,Q,Undisclosed,,,,WR/FLEX
+,93996-64949:Ja'Marcus Bradley,93996-64949,WR,Ja'Marcus,Ja'Marcus Bradley,Bradley,,,,4000,CLE@PIT,PIT,CLE,Q,Undisclosed,,,,WR/FLEX
+,93996-85687:Jontre Kirklin,93996-85687,WR,Jontre,Jontre Kirklin,Kirklin,,,,4000,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-92093:Jaelon Darden,93996-92093,WR,Jaelon,Jaelon Darden,Darden,,0.292307689,13,4000,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+,93996-71359:Javon Wims,93996-71359,WR,Javon,Javon Wims,Wims,,,,4000,NO@CAR,CAR,NO,,,,,,WR/FLEX
+,93996-32703:Jakeem Grant Sr.,93996-32703,WR,Jakeem,Jakeem Grant Sr.,Grant Sr.,,,,4000,CLE@PIT,CLE,PIT,IR,Kneecap,,,,WR/FLEX
+,93996-65737:Sam Tecklenburg,93996-65737,TE,Sam,Sam Tecklenburg,Tecklenburg,,,,4000,NO@CAR,CAR,NO,,,,,,TE/FLEX
+,93996-149710:Mike Strachan,93996-149710,WR,Mike,Mike Strachan,Strachan,,1.480000019,5,4000,NO@CAR,CAR,NO,,,,,,WR/FLEX
+,93996-88525:Kawaan Baker,93996-88525,WR,Kawaan,Kawaan Baker,Baker,,,,4000,NO@CAR,NO,CAR,,,,,,WR/FLEX
+,93996-65231:Adam Prentice,93996-65231,RB,Adam,Adam Prentice,Prentice,,0.65999999,5,4000,NO@CAR,NO,CAR,,,,,,RB/FLEX
+,93996-63189:Hunter Thedford,93996-63189,TE,Hunter,Hunter Thedford,Thedford,,,,4000,CLE@PIT,CLE,PIT,,,,,,TE/FLEX
+,93996-89817:Austin Watkins Jr.,93996-89817,WR,Austin,Austin Watkins Jr.,Watkins Jr.,,,,4000,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+,93996-71386:Jordan Thomas,93996-71386,TE,Jordan,Jordan Thomas,Thomas,,,,4000,NO@CAR,CAR,NO,,,,,,TE/FLEX
+,93996-185822:Thomas Greaney,93996-185822,TE,Thomas,Thomas Greaney,Greaney,,,,4000,CLE@PIT,CLE,PIT,,,,,,TE/FLEX
+,93996-170206:Rodney Williams II,93996-170206,TE,Rodney,Rodney Williams II,Williams II,,,,4000,CLE@PIT,PIT,CLE,,,,,,TE/FLEX
+,93996-88547:Jalen Wayne,93996-88547,WR,Jalen,Jalen Wayne,Wayne,,,,4000,CLE@PIT,CLE,PIT,,,,,,WR/FLEX
+,93996-90343:Jordan Byrd,93996-90343,WR,Jordan,Jordan Byrd,Byrd,,,,4000,CLE@PIT,PIT,CLE,,,,,,WR/FLEX
+,93996-63479:John Kelly Jr.,93996-63479,RB,John,John Kelly Jr.,Kelly Jr.,,,,4000,CLE@PIT,CLE,PIT,,,,,,RB/FLEX
+,93996-103930:Derek Wright,93996-103930,WR,Derek,Derek Wright,Wright,,,,4000,NO@CAR,CAR,NO,,,,,,WR/FLEX
+x,93996-12547:Pittsburgh Steelers,93996-12547,D,Pittsburgh,Pittsburgh Steelers,Steelers,3,4,1,3800,CLE@PIT,PIT,CLE,,,,,,DEF
+x,93996-12553:Carolina Panthers,93996-12553,D,Carolina,Carolina Panthers,Panthers,3,4,1,3500,NO@CAR,CAR,NO,,,,,,DEF
