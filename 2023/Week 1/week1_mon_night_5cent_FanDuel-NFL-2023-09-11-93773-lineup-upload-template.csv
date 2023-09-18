@@ -1,0 +1,151 @@
+MVP - 1.5X Points,AnyFLEX,AnyFLEX,AnyFLEX,AnyFLEX,,Instructions,,,,,,,,,,,,,,,,,
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64576:Damien Harris,93773-93539:Michael Carter,,1) Create a lineup by inserting any player from this list into their appropriate position columns,,,,,,,,,,,,,,,,,
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-64585:Dawson Knox,,2) You can paste either the Player ID + Name OR ID from their respective columns,,,,,,,,,,,,,,,,,
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-65128:Tyler Bass,,3) Any information to the right of the last position column will be ignored in the upload,,,,,,,,,,,,,,,,,
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-22109:Greg Zuerlein,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,4) Maximum of 250 lineups per upload,,,,,,,,,,,,,,,,,
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-60451:Tyler Conklin,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-62239:Josh Allen,93773-60451:Tyler Conklin,93773-64585:Dawson Knox,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-64585:Dawson Knox,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-62239:Josh Allen,93773-62239,QB,Josh,Josh Allen,Allen,23.92000058,19,17500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-60451:Tyler Conklin,,93773-6894:Aaron Rodgers,93773-6894,QB,Aaron,Aaron Rodgers,Rodgers,14.77647041,17,16000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-145558:Dalton Kincaid,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,,93773-25079:Stefon Diggs,93773-25079,WR,Stefon,Stefon Diggs,Diggs,15.08421085,19,14500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-93539:Michael Carter,,93773-103564:Garrett Wilson,93773-103564,WR,Garrett,Garrett Wilson,Wilson,10.24705864,17,13500,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-60451:Tyler Conklin,93773-64585:Dawson Knox,,93773-103064:Breece Hall,93773-103064,RB,Breece,Breece Hall,Hall,15.08571407,7,12500,BUF@NYJ,NYJ,BUF,Q,Knee,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-65128:Tyler Bass,93773-93539:Michael Carter,,93773-54140:Dalvin Cook,93773-54140,RB,Dalvin,Dalvin Cook,Cook,12.6833335,18,12000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-64576:Damien Harris,,93773-94534:Gabe Davis,93773-94534,WR,Gabe,Gabe Davis,Davis,10.1352943,17,11500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-60451:Tyler Conklin,93773-64576:Damien Harris,,93773-91626:James Cook,93773-91626,RB,James,James Cook,Cook,5.694736681,19,11000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-60451:Tyler Conklin,93773-64576:Damien Harris,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,93773-56809:Allen Lazard,93773-56809,WR,Allen,Allen Lazard,Lazard,9.653333537,15,10000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-60451:Tyler Conklin,93773-65128:Tyler Bass,,93773-64576:Damien Harris,93773-64576,RB,Damien,Damien Harris,Harris,7.49090923,11,9500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-64576:Damien Harris,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,93773-12526:Buffalo Bills,93773-12526,D,Buffalo,Buffalo Bills,Bills,8.473684211,19,9500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-64576:Damien Harris,,93773-12544:New York Jets,93773-12544,D,New York,New York Jets,Jets,7.117647059,17,9000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-60451:Tyler Conklin,93773-64576:Damien Harris,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-65128:Tyler Bass,93773-65128,K,Tyler,Tyler Bass,Bass,8.421052632,19,9000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-71352:Mecole Hardman Jr.,,93773-64585:Dawson Knox,93773-64585,TE,Dawson,Dawson Knox,Knox,7.65882335,17,8500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-145558:Dalton Kincaid,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,,93773-60451:Tyler Conklin,93773-60451,TE,Tyler,Tyler Conklin,Conklin,6.029411765,17,8000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-65128:Tyler Bass,93773-71352:Mecole Hardman Jr.,,93773-22109:Greg Zuerlein,93773-22109,K,Greg,Greg Zuerlein,Zuerlein,8.176470588,17,8000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,,93773-14257:Randall Cobb,93773-14257,WR,Randall,Randall Cobb,Cobb,4.976922842,13,7500,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-91626:James Cook,,93773-86518:Khalil Shakir,93773-86518,WR,Khalil,Khalil Shakir,Shakir,3.39166673,12,7500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-94534:Gabe Davis,,93773-145558:Dalton Kincaid,93773-145558,TE,Dalton,Dalton Kincaid,Kincaid,,,7000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-93539:Michael Carter,,93773-71352:Mecole Hardman Jr.,93773-71352,WR,Mecole,Mecole Hardman Jr.,Hardman Jr.,9.333333333,9,7000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-22109:Greg Zuerlein,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-93539:Michael Carter,93773-93539,RB,Michael,Michael Carter,Carter,6.59375,16,6500,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-60451:Tyler Conklin,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-56059:Trent Sherfield,93773-56059,WR,Trent,Trent Sherfield,Sherfield,4.041176291,17,6500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-64576:Damien Harris,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-34331:Latavius Murray,93773-34331,RB,Latavius,Latavius Murray,Murray,10.82307669,13,6000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,,93773-31207:C.J. Uzomah,93773-31207,TE,C.J.,C.J. Uzomah,Uzomah,3.808333397,12,6000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-64576:Damien Harris,93773-6894:Aaron Rodgers,93773-93539:Michael Carter,,93773-138643:Jason Brownlee,93773-138643,WR,Jason,Jason Brownlee,Brownlee,,,5500,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,93773-71352:Mecole Hardman Jr.,,93773-112455:Xavier Gipson,93773-112455,WR,Xavier,Xavier Gipson,Gipson,,,5500,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-64576:Damien Harris,93773-6894:Aaron Rodgers,93773-71352:Mecole Hardman Jr.,,93773-104176:Deonte Harty,93773-104176,WR,Deonte,Deonte Harty,Harty,0.075000003,4,5500,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-103564:Garrett Wilson,93773-145558:Dalton Kincaid,93773-25079:Stefon Diggs,93773-93539:Michael Carter,,93773-87815:Jeremy Ruckert,93773-87815,TE,Jeremy,Jeremy Ruckert,Ruckert,0.649999976,2,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-93539:Michael Carter,,93773-63625:Nyheim Hines,93773-63625,RB,Nyheim,Nyheim Hines,Hines,3.805555556,18,5000,BUF@NYJ,BUF,NYJ,IR,Knee,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-71352:Mecole Hardman Jr.,93773-94534:Gabe Davis,,93773-90123:Quintin Morris,93773-90123,TE,Quintin,Quintin Morris,Morris,2.400000095,8,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-145558:Dalton Kincaid,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-93539:Michael Carter,,93773-64403:Irvin Charles,93773-64403,WR,Irvin,Irvin Charles,Charles,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-64576:Damien Harris,93773-93539:Michael Carter,,93773-62998:Jace Sternberger,93773-62998,TE,Jace,Jace Sternberger,Sternberger,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-65128:Tyler Bass,93773-93539:Michael Carter,,93773-70426:Reggie Gilliam,93773-70426,TE,Reggie,Reggie Gilliam,Gilliam,3.620000076,5,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-64576:Damien Harris,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,93773-71352:Mecole Hardman Jr.,,93773-54817:Diontae Spencer,93773-54817,WR,Diontae,Diontae Spencer,Spencer,,,5000,BUF@NYJ,NYJ,BUF,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-12526:Buffalo Bills,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,93773-71352:Mecole Hardman Jr.,,93773-40482:Tim Boyle,93773-40482,QB,Tim,Tim Boyle,Boyle,-0.879999995,1,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-64585:Dawson Knox,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,93773-71352:Mecole Hardman Jr.,,93773-29605:Matt Barkley,93773-29605,QB,Matt,Matt Barkley,Barkley,,,5000,BUF@NYJ,BUF,NYJ,Q,Elbow,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-64576:Damien Harris,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,93773-71352:Mecole Hardman Jr.,,93773-90406:Zach Wilson,93773-90406,QB,Zach,Zach Wilson,Wilson,11.71333313,9,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-62239:Josh Allen,93773-54140:Dalvin Cook,93773-56809:Allen Lazard,93773-65128:Tyler Bass,93773-94534:Gabe Davis,,93773-85932:Isaiah Bowser,93773-85932,RB,Isaiah,Isaiah Bowser,Bowser,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-87473:Braydon Johnson,93773-87473,WR,Braydon,Braydon Johnson,Johnson,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-62239:Josh Allen,93773-64576:Damien Harris,93773-93539:Michael Carter,,93773-86203:Justin Shorter,93773-86203,WR,Justin,Justin Shorter,Shorter,,,5000,BUF@NYJ,BUF,NYJ,IR,Hamstring,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-12544:New York Jets,93773-56809:Allen Lazard,93773-62239:Josh Allen,93773-64585:Dawson Knox,,93773-151737:E.J. Jenkins,93773-151737,TE,E.J.,E.J. Jenkins,Jenkins,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-145558:Dalton Kincaid,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,93773-63419:Andy Isabella,93773-63419,WR,Andy,Andy Isabella,Isabella,1.066666683,3,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-22109:Greg Zuerlein,93773-56809:Allen Lazard,93773-62239:Josh Allen,93773-64585:Dawson Knox,,93773-87233:Bryan Thompson,93773-87233,WR,Bryan,Bryan Thompson,Thompson,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-12544:New York Jets,93773-56809:Allen Lazard,93773-62239:Josh Allen,93773-65128:Tyler Bass,,93773-149827:Nick Guggemos,93773-149827,TE,Nick,Nick Guggemos,Guggemos,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-22109:Greg Zuerlein,93773-56809:Allen Lazard,93773-62239:Josh Allen,93773-65128:Tyler Bass,,93773-129219:Israel Abanikanda,93773-129219,RB,Israel,Israel Abanikanda,Abanikanda,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-12544:New York Jets,93773-22109:Greg Zuerlein,93773-62239:Josh Allen,93773-64576:Damien Harris,,93773-86341:Xazavian Valladay,93773-86341,RB,Xazavian,Xazavian Valladay,Valladay,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-103564:Garrett Wilson,93773-12526:Buffalo Bills,93773-54140:Dalvin Cook,93773-64576:Damien Harris,,93773-69833:Shane Buechele,93773-69833,QB,Shane,Shane Buechele,Buechele,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,93773-94534:Gabe Davis,,93773-27721:Justin Hardee Sr.,93773-27721,WR,Justin,Justin Hardee Sr.,Hardee Sr.,0,1,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-103564:Garrett Wilson,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-91626:James Cook,,93773-63050:Ty Johnson,93773-63050,RB,Ty,Ty Johnson,Johnson,3.066666603,12,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-64585:Dawson Knox,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-149708:Zach Davidson,93773-149708,TE,Zach,Zach Davidson,Davidson,,,5000,BUF@NYJ,BUF,NYJ,IR,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-12544:New York Jets,93773-22109:Greg Zuerlein,93773-62239:Josh Allen,93773-64585:Dawson Knox,,93773-53967:Nick Bawden,93773-53967,RB,Nick,Nick Bawden,Bawden,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-12526:Buffalo Bills,93773-56809:Allen Lazard,93773-60451:Tyler Conklin,93773-62239:Josh Allen,,93773-41042:Marcell Ateman,93773-41042,WR,Marcell,Marcell Ateman,Ateman,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-12544:New York Jets,93773-64576:Damien Harris,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-70868:Damarea Crockett,93773-70868,RB,Damarea,Damarea Crockett,Crockett,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,93773-91626:James Cook,,93773-90583:Tyrell Shavers,93773-90583,WR,Tyrell,Tyrell Shavers,Shavers,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-103564:Garrett Wilson,93773-145558:Dalton Kincaid,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,93773-72665:Kenny Yeboah,93773-72665,TE,Kenny,Kenny Yeboah,Yeboah,,,5000,BUF@NYJ,NYJ,BUF,IR,Hamstring,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-145558:Dalton Kincaid,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,93773-62239:Josh Allen,,93773-86238:Zack Kuntz,93773-86238,TE,Zack,Zack Kuntz,Kuntz,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-12526:Buffalo Bills,93773-56809:Allen Lazard,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,93773-104289:Malik Taylor,93773-104289,WR,Malik,Malik Taylor,Taylor,,,5000,BUF@NYJ,NYJ,BUF,Q,Illness,,,,MVP - 1.5X Points/AnyFLEX
+93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-62239:Josh Allen,93773-64585:Dawson Knox,93773-93539:Michael Carter,,93773-130274:Isaiah Coulter,93773-130274,WR,Isaiah,Isaiah Coulter,Coulter,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64576:Damien Harris,,93773-53095:Kyle Allen,93773-53095,QB,Kyle,Kyle Allen,Allen,9.970000267,2,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-65128:Tyler Bass,,93773-186991:Jerome Kapp,93773-186991,WR,Jerome,Jerome Kapp,Kapp,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,93773-64576:Damien Harris,,93773-38767:Chris Streveler,93773-38767,QB,Chris,Chris Streveler,Streveler,9,1,5000,BUF@NYJ,NYJ,BUF,Q,Thumb,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,,93773-88433:Travis Dye,93773-88433,RB,Travis,Travis Dye,Dye,,,5000,BUF@NYJ,NYJ,BUF,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,93773-65128:Tyler Bass,,93773-90480:Joel Wilson,93773-90480,TE,Joel,Joel Wilson,Wilson,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,,93773-38386:Tre'Davious White,93773-38386,WR,Tre'Davious,Tre'Davious White,White,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,,93773-57208:KeeSean Johnson,93773-57208,WR,KeeSean,KeeSean Johnson,Johnson,,,5000,BUF@NYJ,BUF,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,93773-64585:Dawson Knox,,93773-45439:Corey Davis,93773-45439,WR,Corey,Corey Davis,Davis,6.27692296,13,5000,BUF@NYJ,NYJ,BUF,IR,Personal,,,,MVP - 1.5X Points/AnyFLEX
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-65128:Tyler Bass,93773-71352:Mecole Hardman Jr.,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-56809:Allen Lazard,93773-62239:Josh Allen,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-60451:Tyler Conklin,93773-62239:Josh Allen,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-22109:Greg Zuerlein,93773-62239:Josh Allen,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-56809:Allen Lazard,93773-60451:Tyler Conklin,93773-62239:Josh Allen,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12526:Buffalo Bills,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-60451:Tyler Conklin,93773-62239:Josh Allen,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12526:Buffalo Bills,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-65128:Tyler Bass,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-145558:Dalton Kincaid,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-56809:Allen Lazard,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-60451:Tyler Conklin,93773-91626:James Cook,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-22109:Greg Zuerlein,93773-62239:Josh Allen,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-60451:Tyler Conklin,93773-62239:Josh Allen,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-60451:Tyler Conklin,93773-62239:Josh Allen,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64576:Damien Harris,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-65128:Tyler Bass,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-91626:James Cook,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-64576:Damien Harris,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-145558:Dalton Kincaid,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-94534:Gabe Davis,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-64585:Dawson Knox,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-91626:James Cook,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-65128:Tyler Bass,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-145558:Dalton Kincaid,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-60451:Tyler Conklin,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-12544:New York Jets,93773-145558:Dalton Kincaid,93773-25079:Stefon Diggs,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-54140:Dalvin Cook,93773-64576:Damien Harris,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-91626:James Cook,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-91626:James Cook,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-145558:Dalton Kincaid,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12526:Buffalo Bills,93773-12544:New York Jets,93773-60451:Tyler Conklin,93773-62239:Josh Allen,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-64585:Dawson Knox,93773-71352:Mecole Hardman Jr.,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-94534:Gabe Davis,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-65128:Tyler Bass,93773-71352:Mecole Hardman Jr.,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12526:Buffalo Bills,93773-12544:New York Jets,93773-22109:Greg Zuerlein,93773-62239:Josh Allen,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-145558:Dalton Kincaid,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-103564:Garrett Wilson,93773-145558:Dalton Kincaid,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-71352:Mecole Hardman Jr.,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-91626:James Cook,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-94534:Gabe Davis,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-94534:Gabe Davis,,,,,,,,,,,,,,,,,,,
+93773-6894:Aaron Rodgers,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64576:Damien Harris,93773-71352:Mecole Hardman Jr.,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-12526:Buffalo Bills,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-56809:Allen Lazard,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-22109:Greg Zuerlein,93773-54140:Dalvin Cook,93773-62239:Josh Allen,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,93773-94534:Gabe Davis,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-54140:Dalvin Cook,93773-64585:Dawson Knox,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-54140:Dalvin Cook,93773-60451:Tyler Conklin,93773-62239:Josh Allen,93773-64585:Dawson Knox,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-22109:Greg Zuerlein,93773-54140:Dalvin Cook,93773-62239:Josh Allen,93773-65128:Tyler Bass,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-54140:Dalvin Cook,93773-65128:Tyler Bass,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-6894:Aaron Rodgers,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-64576:Damien Harris,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-64576:Damien Harris,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-12526:Buffalo Bills,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-62239:Josh Allen,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-103564:Garrett Wilson,93773-22109:Greg Zuerlein,93773-25079:Stefon Diggs,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-103564:Garrett Wilson,93773-12526:Buffalo Bills,93773-64585:Dawson Knox,93773-6894:Aaron Rodgers,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-56809:Allen Lazard,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-25079:Stefon Diggs,93773-65128:Tyler Bass,93773-6894:Aaron Rodgers,93773-71352:Mecole Hardman Jr.,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-103564:Garrett Wilson,93773-12544:New York Jets,93773-25079:Stefon Diggs,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-103564:Garrett Wilson,93773-25079:Stefon Diggs,93773-60451:Tyler Conklin,93773-64576:Damien Harris,,,,,,,,,,,,,,,,,,,
+93773-54140:Dalvin Cook,93773-12526:Buffalo Bills,93773-25079:Stefon Diggs,93773-6894:Aaron Rodgers,93773-93539:Michael Carter,,,,,,,,,,,,,,,,,,,
