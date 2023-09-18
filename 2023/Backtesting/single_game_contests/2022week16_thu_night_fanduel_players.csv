@@ -1,0 +1,68 @@
+keep,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+x,84962-89951:Trevor Lawrence,84962-89951,QB,Trevor,Trevor Lawrence,Lawrence,20.5,14,16500,JAC@NYJ,JAC,NYJ,Q,Toe,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-90406:Zach Wilson,84962-90406,QB,Zach,Zach Wilson,Wilson,12.83,8,15000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-40534:Mike White,84962-40534,QB,Mike,Mike White,White,18.32666651,3,15000,JAC@NYJ,NYJ,JAC,O,Ribs,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-89956:Travis Etienne Jr.,84962-89956,RB,Travis,Travis Etienne Jr.,Etienne Jr.,10.64285714,14,14000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-103564:Garrett Wilson,84962-103564,WR,Garrett,Garrett Wilson,Wilson,12.83,14,13500,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-60858:Christian Kirk,84962-60858,WR,Christian,Christian Kirk,Kirk,13.59,14,13000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-103252:Zonovan Knight,84962-103252,RB,Zonovan,Zonovan Knight,Knight,10.77499962,4,12500,JAC@NYJ,NYJ,JAC,Q,Ankle,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-41305:Zay Jones,84962-41305,WR,Zay,Zay Jones,Jones,13.05,13,12000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-41872:Evan Engram,84962-41872,TE,Evan,Evan Engram,Engram,10.6,14,11000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-93539:Michael Carter,84962-93539,RB,Michael,Michael Carter,Carter,7.307692308,13,10000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-12544:New York Jets,84962-12544,D,New York,New York Jets,Jets,7.714285714,14,9500,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-12554:Jacksonville Jaguars,84962-12554,D,Jacksonville,Jacksonville Jaguars,Jaguars,6.642857143,14,9000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-22109:Greg Zuerlein,84962-22109,K,Greg,Greg Zuerlein,Zuerlein,8.714285714,14,9000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-90949:Riley Patterson,84962-90949,K,Riley,Riley Patterson,Patterson,7.714285714,14,8500,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-22103:Marvin Jones Jr.,84962-22103,WR,Marvin,Marvin Jones Jr.,Jones Jr.,5.99230781,13,8000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-45439:Corey Davis,84962-45439,WR,Corey,Corey Davis,Davis,7.1,10,8000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-65724:JaMycal Hasty,84962-65724,RB,JaMycal,JaMycal Hasty,Hasty,3.845454476,11,7500,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-88575:Elijah Moore,84962-88575,WR,Elijah,Elijah Moore,Moore,5.700000069,11,7500,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-64350:Jeff Smith,84962-64350,WR,Jeff,Jeff Smith,Smith,2.485714231,7,7000,JAC@NYJ,NYJ,JAC,O,Knee,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-79979:Jamal Agnew,84962-79979,WR,Jamal,Jamal Agnew,Agnew,4.65833346,12,7000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-60451:Tyler Conklin,84962-60451,TE,Tyler,Tyler Conklin,Conklin,5.985714504,14,6500,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-31207:C.J. Uzomah,84962-31207,TE,C.J.,C.J. Uzomah,Uzomah,3.829999924,10,6500,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-72453:Denzel Mims,84962-72453,WR,Denzel,Denzel Mims,Mims,3.012500048,8,6000,JAC@NYJ,NYJ,JAC,O,Concussion,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-52495:Braxton Berrios,84962-52495,WR,Braxton,Braxton Berrios,Berrios,3.269999913,14,6000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-130288:James Robinson,84962-130288,RB,James,James Robinson,Robinson,7.554545316,11,6000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-86173:Mekhi Sargent,84962-86173,RB,Mekhi,Mekhi Sargent,Sargent,0.275000006,4,5500,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-102729:Snoop Conner,84962-102729,RB,Snoop,Snoop Conner,Conner,0.666666667,3,5500,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-63050:Ty Johnson,84962-63050,RB,Ty,Ty Johnson,Johnson,2.933333291,9,5500,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-97537:Naz Bohannon,84962-97537,TE,Naz,Naz Bohannon,Bohannon,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-87815:Jeremy Ruckert,84962-87815,TE,Jeremy,Jeremy Ruckert,Ruckert,0,1,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-70157:Darrell Henderson Jr.,84962-70157,RB,Darrell,Darrell Henderson Jr.,Henderson Jr.,6.5,10,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-73616:Willie Johnson,84962-73616,WR,Willie,Willie Johnson,Johnson,,,5000,JAC@NYJ,JAC,NYJ,IR,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84962-64786:Ryquell Armstead,84962-64786,RB,Ryquell,Ryquell Armstead,Armstead,5.550000191,2,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-64403:Irvin Charles,84962-64403,WR,Irvin,Irvin Charles,Charles,,,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-71058:Grayson Gunter,84962-71058,TE,Grayson,Grayson Gunter,Gunter,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-103064:Breece Hall,84962-103064,RB,Breece,Breece Hall,Hall,15.08571407,7,5000,JAC@NYJ,NYJ,JAC,IR,Knee - acl,,,,MVP - 1.5X Points/AnyFLEX
+,84962-71201:Jake Verity,84962-71201,K,Jake,Jake Verity,Verity,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-169890:LuJuan Winningham,84962-169890,WR,LuJuan,LuJuan Winningham,Winningham,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-54817:Diontae Spencer,84962-54817,WR,Diontae,Diontae Spencer,Spencer,-0.25333333,15,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-80546:Dan Arnold,84962-80546,TE,Dan,Dan Arnold,Arnold,1.975000024,8,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-91428:Tarik Black,84962-91428,WR,Tarik,Tarik Black,Black,1.5,1,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-64555:Calvin Ridley,84962-64555,WR,Calvin,Calvin Ridley,Ridley,11.11999969,5,5000,JAC@NYJ,JAC,NYJ,IR,Suspension,,,,MVP - 1.5X Points/AnyFLEX
+,84962-111917:Keshunn Abram,84962-111917,WR,Keshunn,Keshunn Abram,Abram,,,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-91055:Kevin Austin Jr.,84962-91055,WR,Kevin,Kevin Austin Jr.,Austin Jr.,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-93103:E.J. Perry,84962-93103,QB,E.J.,E.J. Perry,Perry,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-130350:Jaylon Moore,84962-130350,WR,Jaylon,Jaylon Moore,Moore,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-63025:Nathan Cottrell,84962-63025,RB,Nathan,Nathan Cottrell,Cottrell,0.300000012,1,5000,JAC@NYJ,JAC,NYJ,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84962-6714:Joe Flacco,84962-6714,QB,Joe,Joe Flacco,Flacco,11.42000008,4,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-71098:James McCourt,84962-71098,K,James,James McCourt,McCourt,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-27721:Justin Hardee Sr.,84962-27721,WR,Justin,Justin Hardee Sr.,Hardee Sr.,0,1,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-152011:Andrew Mevis,84962-152011,K,Andrew,Andrew Mevis,Mevis,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-53967:Nick Bawden,84962-53967,RB,Nick,Nick Bawden,Bawden,2.5,1,5000,JAC@NYJ,NYJ,JAC,IR,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84962-81616:Rashard Davis,84962-81616,WR,Rashard,Rashard Davis,Davis,,,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-88016:Ryan McDaniel,84962-88016,WR,Ryan,Ryan McDaniel,McDaniel,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-27986:C.J. Beathard,84962-27986,QB,C.J.,C.J. Beathard,Beathard,0.07,2,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-89814:Gerrit Prince,84962-89814,TE,Gerrit,Gerrit Prince,Prince,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-72665:Kenny Yeboah,84962-72665,TE,Kenny,Kenny Yeboah,Yeboah,2.299999952,2,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-18009:Chris Manhertz,84962-18009,TE,Chris,Chris Manhertz,Manhertz,1.199999968,6,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-63321:Rashod Berry,84962-63321,TE,Rashod,Rashod Berry,Berry,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-73176:Luke Farrell,84962-73176,TE,Luke,Luke Farrell,Farrell,1.466666698,3,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-89437:Tim Jones,84962-89437,WR,Tim,Tim Jones,Jones,1.125,4,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-87657:Seth Williams,84962-87657,WR,Seth,Seth Williams,Williams,3.900000095,1,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-33647:Kyle Sloter,84962-33647,QB,Kyle,Kyle Sloter,Sloter,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-38767:Chris Streveler,84962-38767,QB,Chris,Chris Streveler,Streveler,1.019999981,2,5000,JAC@NYJ,NYJ,JAC,,,,,,MVP - 1.5X Points/AnyFLEX
+,84962-45307:Rodney Adams,84962-45307,WR,Rodney,Rodney Adams,Adams,0,1,5000,JAC@NYJ,NYJ,JAC,IR,Illness,,,,MVP - 1.5X Points/AnyFLEX
+,84962-29949:Marvin Hall,84962-29949,WR,Marvin,Marvin Hall,Hall,1.5,1,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84962-71935:Kendric Pryor,84962-71935,WR,Kendric,Kendric Pryor,Pryor,,,5000,JAC@NYJ,JAC,NYJ,,,,,,MVP - 1.5X Points/AnyFLEX

@@ -1,0 +1,21 @@
+keep,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Tier,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details
+x,82156-91591:Justin Fields,82156-91591,QB,Justin,Justin Fields,Fields,12.99333318,5,6,15000,CHI@NE,CHI,NE,,
+x,82156-90584:Mac Jones,82156-90584,QB,Mac,Mac Jones,Jones,14.04666646,3,3,14500,CHI@NE,NE,CHI,Q,Ankle
+x,82156-111540:Rhamondre Stevenson,82156-111540,RB,Rhamondre,Rhamondre Stevenson,Stevenson,13.31666692,5,6,14000,CHI@NE,NE,CHI,,
+x,82156-73273:David Montgomery,82156-73273,RB,David,David Montgomery,Montgomery,9.380000305,3,5,13500,CHI@NE,CHI,NE,,
+x,82156-64576:Damien Harris,82156-64576,RB,Damien,Damien Harris,Harris,10.14000015,3,5,12500,CHI@NE,NE,CHI,,
+x,82156-63634:Jakobi Meyers,82156-63634,WR,Jakobi,Jakobi Meyers,Meyers,12.69999981,3,4,12000,CHI@NE,NE,CHI,,
+x,82156-69777:Darnell Mooney,82156-69777,WR,Darnell,Darnell Mooney,Mooney,5.433333079,2,6,11000,CHI@NE,CHI,NE,,
+x,82156-72412:Khalil Herbert,82156-72412,RB,Khalil,Khalil Herbert,Herbert,10.73333359,3,6,10000,CHI@NE,CHI,NE,,
+x,82156-12541:New England Patriots,82156-12541,D,New England,New England Patriots,Patriots,10.33333333,4,6,10000,CHI@NE,NE,CHI,,
+x,82156-12527:Chicago Bears,82156-12527,D,Chicago,Chicago Bears,Bears,6.333333333,3,6,9500,CHI@NE,CHI,NE,,
+x,82156-89220:Tyquan Thornton,82156-89220,WR,Tyquan,Tyquan Thornton,Thornton,10.5,1,2,9000,CHI@NE,NE,CHI,,
+x,82156-33714:Cairo Santos,82156-33714,K,Cairo,Cairo Santos,Santos,7.2,4,5,9000,CHI@NE,CHI,NE,,
+x,82156-6642:Nick Folk,82156-6642,K,Nick,Nick Folk,Folk,8,4,6,9000,CHI@NE,NE,CHI,,
+x,82156-33260:DeVante Parker,82156-33260,WR,DeVante,DeVante Parker,Parker,7.459999847,3,5,8500,CHI@NE,NE,CHI,,
+x,82156-40845:Hunter Henry,82156-40845,TE,Hunter,Hunter Henry,Henry,4.683333397,2,6,8000,CHI@NE,NE,CHI,,
+x,82156-91047:Cole Kmet,82156-91047,TE,Cole,Cole Kmet,Kmet,2.76666673,3,6,7500,CHI@NE,CHI,NE,,
+x,82156-29683:Nelson Agholor,82156-29683,WR,Nelson,Nelson Agholor,Agholor,6.3,2,5,7500,CHI@NE,NE,CHI,Q,Hamstring
+x,82156-64841:Equanimeous St. Brown,82156-64841,WR,Equanimeous,Equanimeous St. Brown,St. Brown,4.066666603,2,6,7000,CHI@NE,CHI,NE,,
+x,82156-48116:Jonnu Smith,82156-48116,TE,Jonnu,Jonnu Smith,Smith,4.099999905,2,4,6500,CHI@NE,NE,CHI,,
+x,82156-56698:Dante Pettis,82156-56698,WR,Dante,Dante Pettis,Pettis,5.6,2,5,6000,CHI@NE,CHI,NE,,

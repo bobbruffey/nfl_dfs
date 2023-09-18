@@ -1,0 +1,67 @@
+keep,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+x,84372-72731:Josh Jacobs,84372-72731,RB,Josh,Josh Jacobs,Jacobs,19.2,12,16500,LV@LAR,LV,LAR,Q,Quadriceps,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-45889:Davante Adams,84372-45889,WR,Davante,Davante Adams,Adams,19.18,12,16000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-45859:Derek Carr,84372-45859,QB,Derek,Derek Carr,Carr,18.74,12,15000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-56192:John Wolford,84372-56192,QB,John,John Wolford,Wolford,12.01,2,13000,LV@LAR,LAR,LV,Q,Neck,,,,MVP - 1.5X Points/AnyFLEX
+,84372-60787:Bryce Perkins,84372-60787,QB,Bryce,Bryce Perkins,Perkins,4.409999847,4,13000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-41535:Baker Mayfield,84372-41535,QB,Baker,Baker Mayfield,Mayfield,11.3885716,7,12500,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-89230:Cam Akers,84372-89230,RB,Cam,Cam Akers,Akers,8.6,10,12000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-64581:Van Jefferson,84372-64581,WR,Van,Van Jefferson,Jefferson,6.9,5,10500,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-12537:Las Vegas Raiders,84372-12537,D,Las Vegas,Las Vegas Raiders,Raiders,4.5,12,10000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-40856:Daniel Carlson,84372-40856,K,Daniel,Daniel Carlson,Carlson,10.63636364,11,9500,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-25267:Mack Hollins,84372-25267,WR,Mack,Mack Hollins,Hollins,9.01,12,9500,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-12538:Los Angeles Rams,84372-12538,D,Los Angeles,Los Angeles Rams,Rams,5.416666667,12,9000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-87180:Matt Gay,84372-87180,K,Matt,Matt Gay,Gay,7,12,8500,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-60712:Foster Moreau,84372-60712,TE,Foster,Foster Moreau,Moreau,6.033333249,9,8500,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-47870:Tyler Higbee,84372-47870,TE,Tyler,Tyler Higbee,Higbee,6.309091048,11,8000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-52345:Brandon Powell,84372-52345,WR,Brandon,Brandon Powell,Powell,2.316666603,12,7500,LV@LAR,LAR,LV,Q,Illness,,,,MVP - 1.5X Points/AnyFLEX
+,84372-57986:Hunter Renfrow,84372-57986,WR,Hunter,Hunter Renfrow,Renfrow,4.616666794,6,7000,LV@LAR,LV,LAR,IR,Oblique,,,,MVP - 1.5X Points/AnyFLEX
+,84372-25011:Darren Waller,84372-25011,TE,Darren,Darren Waller,Waller,7.875,4,7000,LV@LAR,LV,LAR,IR,Hamstring,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-104433:Kyren Williams,84372-104433,RB,Kyren,Kyren Williams,Williams,4.675000191,4,7000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-92976:Tutu Atwell,84372-92976,WR,Tutu,Tutu Atwell,Atwell,4.41428566,7,6500,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-71105:Ben Skowronek,84372-71105,WR,Ben,Ben Skowronek,Skowronek,4.299999873,12,6500,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-27229:Ameer Abdullah,84372-27229,RB,Ameer,Ameer Abdullah,Abdullah,2.60833327,12,6000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-79998:Keelan Cole,84372-79998,WR,Keelan,Keelan Cole,Cole,1.5,7,6000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-91578:Zamir White,84372-91578,RB,Zamir,Zamir White,White,0.662500024,8,5500,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-63697:Brycen Hopkins,84372-63697,TE,Brycen,Brycen Hopkins,Hopkins,1.099999984,3,5500,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-88685:Austin Trammell,84372-88685,WR,Austin,Austin Trammell,Trammell,1.299999952,1,5500,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-130309:J.J. Koski,84372-130309,WR,J.J.,J.J. Koski,Koski,-0.666666667,3,5000,LV@LAR,LAR,LV,IR,Shoulder,,,,MVP - 1.5X Points/AnyFLEX
+,84372-91783:Warren Jackson,84372-91783,WR,Warren,Warren Jackson,Jackson,,,5000,LV@LAR,LAR,LV,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84372-60947:Jarrett Stidham,84372-60947,QB,Jarrett,Jarrett Stidham,Stidham,2.880000114,1,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-64023:Kyle Markway,84372-64023,TE,Kyle,Kyle Markway,Markway,,,5000,LV@LAR,LAR,LV,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84372-70043:Cole Fotheringham,84372-70043,TE,Cole,Cole Fotheringham,Fotheringham,,,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-72091:Raymond Calais,84372-72091,RB,Raymond,Raymond Calais,Calais,,,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-93343:Roger Carter Jr.,84372-93343,TE,Roger,Roger Carter Jr.,Carter Jr.,,,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-69150:Jordan Veasy,84372-69150,WR,Jordan,Jordan Veasy,Veasy,0,1,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-130337:Case Cookus,84372-130337,QB,Case,Case Cookus,Cookus,,,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-71459:Brittain Brown,84372-71459,RB,Brittain,Brittain Brown,Brown,,,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-72103:Trey Ragas,84372-72103,RB,Trey,Trey Ragas,Ragas,2.5,1,5000,LV@LAR,LAR,LV,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84372-89127:Justin Hall,84372-89127,WR,Justin,Justin Hall,Hall,,,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-69676:Jamal Pettigrew,84372-69676,TE,Jamal,Jamal Pettigrew,Pettigrew,,,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-55088:Malik Turner,84372-55088,WR,Malik,Malik Turner,Turner,5,8,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-52409:Jakob Johnson,84372-52409,RB,Jakob,Jakob Johnson,Johnson,0.524999976,4,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-63550:Isaiah Zuber,84372-63550,WR,Isaiah,Isaiah Zuber,Zuber,,,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-91971:Ronnie Rivers,84372-91971,RB,Ronnie,Ronnie Rivers,Rivers,3.75,2,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-55750:Chris Lacy,84372-55750,WR,Chris,Chris Lacy,Lacy,,,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-65607:Jacob Harris,84372-65607,WR,Jacob,Jacob Harris,Harris,1.100000024,1,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-91468:Chase Garbers,84372-91468,QB,Chase,Chase Garbers,Garbers,,,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-169937:Lance McCutcheon,84372-169937,WR,Lance,Lance McCutcheon,McCutcheon,0,1,5000,LV@LAR,LAR,LV,Q,Shoulder,,,,MVP - 1.5X Points/AnyFLEX
+,84372-48344:Albert Wilson,84372-48344,WR,Albert,Albert Wilson,Wilson,3.55,10,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-112601:Travis Koontz,84372-112601,TE,Travis,Travis Koontz,Koontz,,,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-57565:Austin Walter,84372-57565,RB,Austin,Austin Walter,Walter,4.5,4,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-69343:Landen Akers,84372-69343,WR,Landen,Landen Akers,Akers,,,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-71519:Dillon Stoner,84372-71519,WR,Dillon,Dillon Stoner,Stoner,,,5000,LV@LAR,LV,LAR,O,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84372-87649:Jaquarii Roberson,84372-87649,WR,Jaquarii,Jaquarii Roberson,Roberson,,,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-63201:Xavier Jones,84372-63201,RB,Xavier,Xavier Jones,Jones,,,5000,LV@LAR,LAR,LV,Q,Achilles,,,,MVP - 1.5X Points/AnyFLEX
+,84372-28643:Allen Robinson II,84372-28643,WR,Allen,Allen Robinson II,Robinson II,6.840000153,10,5000,LV@LAR,LAR,LV,IR,Foot,,,,MVP - 1.5X Points/AnyFLEX
+,84372-79970:Cooper Kupp,84372-79970,WR,Cooper,Cooper Kupp,Kupp,18.21111043,9,5000,LV@LAR,LAR,LV,IR,Ankle,,,,MVP - 1.5X Points/AnyFLEX
+,84372-104421:Jesper Horsted,84372-104421,TE,Jesper,Jesper Horsted,Horsted,1.700000048,2,5000,LV@LAR,LV,LAR,O,Concussion,,,,MVP - 1.5X Points/AnyFLEX
+,84372-32234:Malcolm Brown,84372-32234,RB,Malcolm,Malcolm Brown,Brown,2.23333327,3,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-70892:A.J. Rose Jr.,84372-70892,RB,A.J.,A.J. Rose Jr.,Rose Jr.,,,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-71662:DJ Turner,84372-71662,WR,DJ,DJ Turner,Turner,1,2,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84372-22898:Brandon Bolden,84372-22898,RB,Brandon,Brandon Bolden,Bolden,3.26666673,6,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-63603:Jared Pinkney,84372-63603,WR,Jared,Jared Pinkney,Pinkney,,,5000,LV@LAR,LAR,LV,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-86007:Tre Turner,84372-86007,WR,Tre,Tre Turner,Turner,,,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-54007:Jacob Hollister,84372-54007,TE,Jacob,Jacob Hollister,Hollister,2.666666667,6,5000,LV@LAR,LV,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84372-104054:Sincere McCormick,84372-104054,RB,Sincere,Sincere McCormick,McCormick,,,5000,LV@LAR,LV,LAR,IR,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84372-6654:Matthew Stafford,84372-6654,QB,Matthew,Matthew Stafford,Stafford,12.93111081,9,5000,LV@LAR,LAR,LV,IR,Neck,,,,MVP - 1.5X Points/AnyFLEX

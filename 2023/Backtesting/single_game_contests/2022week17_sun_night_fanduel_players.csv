@@ -1,0 +1,75 @@
+keep,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+,85398-63115:Lamar Jackson,85398-63115,QB,Lamar,Lamar Jackson,Jackson,20.25666682,12,16500,PIT@BAL,BAL,PIT,O,Knee - pcl,,,,MVP - 1.5X Points/AnyFLEX
+,85398-38628:Mitch Trubisky,85398-38628,QB,Mitch,Mitch Trubisky,Trubisky,11.26857104,7,15000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-92020:Kenny Pickett,85398-92020,QB,Kenny,Kenny Pickett,Pickett,13.3,11,15000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-70051:Tyler Huntley,85398-70051,QB,Tyler,Tyler Huntley,Huntley,12.6,4,14500,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-90575:Najee Harris,85398-90575,RB,Najee,Najee Harris,Harris,13.5,15,14000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-66008:Diontae Johnson,85398-66008,WR,Diontae,Diontae Johnson,Johnson,10.7,15,13000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-110246:George Pickens,85398-110246,WR,George,George Pickens,Pickens,7.6,15,12500,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-87787:J.K. Dobbins,85398-87787,RB,J.K.,J.K. Dobbins,Dobbins,9.43,7,12000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-52436:Mark Andrews,85398-52436,TE,Mark,Mark Andrews,Andrews,10.3,14,11500,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-86244:Pat Freiermuth,85398-86244,TE,Pat,Pat Freiermuth,Freiermuth,9.2,13,11000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-12555:Baltimore Ravens,85398-12555,D,Baltimore,Baltimore Ravens,Ravens,8.466666667,15,10000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-23045:Justin Tucker,85398-23045,K,Justin,Justin Tucker,Tucker,9.533333333,15,9500,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-12547:Pittsburgh Steelers,85398-12547,D,Pittsburgh,Pittsburgh Steelers,Steelers,5.866666667,15,9000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-32058:Chris Boswell,85398-32058,K,Chris,Chris Boswell,Boswell,7.6,10,8500,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-40167:Gus Edwards,85398-40167,RB,Gus,Gus Edwards,Edwards,8.7,7,8500,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-112057:Jaylen Warren,85398-112057,RB,Jaylen,Jaylen Warren,Warren,6.1,14,8000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-38264:Demarcus Robinson,85398-38264,WR,Demarcus,Demarcus Robinson,Robinson,6,14,8000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-69597:Anthony Brown,85398-69597,QB,Anthony,Anthony Brown,Brown,0.140000001,1,7500,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-71032:Devin Duvernay,85398-71032,WR,Devin,Devin Duvernay,Duvernay,6.971428462,14,7500,PIT@BAL,BAL,PIT,IR,Foot,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-24641:Sammy Watkins,85398-24641,WR,Sammy,Sammy Watkins,Watkins,3.950000048,8,7000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-87260:Isaiah Likely,85398-87260,TE,Isaiah,Isaiah Likely,Likely,4.191666603,12,7000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-30989:Kenyan Drake,85398-30989,RB,Kenyan,Kenyan Drake,Drake,7.336363359,11,6500,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-92882:Connor Heyward,85398-92882,TE,Connor,Connor Heyward,Heyward,3.314285823,7,6500,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-63907:Josh Oliver,85398-63907,TE,Josh,Josh Oliver,Oliver,3.390000153,10,6000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-6739:DeSean Jackson,85398-6739,WR,DeSean,DeSean Jackson,Jackson,3.066666603,6,6000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-104577:Gunner Olszewski,85398-104577,WR,Gunner,Gunner Olszewski,Olszewski,0.790909074,11,5500,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+x,85398-62994:Steven Sims Jr.,85398-62994,WR,Steven,Steven Sims Jr.,Sims Jr.,1.789999962,10,5500,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-63186:James Proche II,85398-63186,WR,James,James Proche II,Proche II,1.314285687,7,5500,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-85635:Charlie Kolar,85398-85635,TE,Charlie,Charlie Kolar,Kolar,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-56580:Christian Blake,85398-56580,WR,Christian,Christian Blake,Blake,0.642857143,7,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-87813:Master Teague III,85398-87813,RB,Master,Master Teague III,Teague III,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-70662:Tyler Vaughns,85398-70662,WR,Tyler,Tyler Vaughns,Vaughns,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-55694:Mike Thomas,85398-55694,WR,Mike,Mike Thomas,Thomas,1.700000048,4,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-26384:Trey Edmunds,85398-26384,RB,Trey,Trey Edmunds,Edmunds,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-170000:Shemar Bridges,85398-170000,WR,Shemar,Shemar Bridges,Bridges,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-62998:Jace Sternberger,85398-62998,TE,Jace,Jace Sternberger,Sternberger,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-90518:Slade Bolden,85398-90518,WR,Slade,Slade Bolden,Bolden,,,5000,PIT@BAL,BAL,PIT,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,85398-112790:Trevon Clark,85398-112790,WR,Trevon,Trevon Clark,Clark,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-73116:Javon McKinley,85398-73116,WR,Javon,Javon McKinley,McKinley,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-91431:Ben Mason,85398-91431,RB,Ben,Ben Mason,Mason,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-93864:Ricky Person Jr.,85398-93864,RB,Ricky,Ricky Person Jr.,Person Jr.,,,5000,PIT@BAL,BAL,PIT,IR,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,85398-80299:Patrick Ricard,85398-80299,RB,Patrick,Patrick Ricard,Ricard,1.208333333,12,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-30635:Mike Davis,85398-30635,RB,Mike,Mike Davis,Davis,0.64000001,5,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-63403:Tae Crowder,85398-63403,RB,Tae,Tae Crowder,Crowder,0,1,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-62510:Nick Boyle,85398-62510,TE,Nick,Nick Boyle,Boyle,0,1,5000,PIT@BAL,BAL,PIT,Q,Illness,,,,MVP - 1.5X Points/AnyFLEX
+,85398-63919:Bailey Gaither,85398-63919,WR,Bailey,Bailey Gaither,Gaither,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-64949:Ja'Marcus Bradley,85398-64949,WR,Ja'Marcus,Ja'Marcus Bradley,Bradley,2.799999873,3,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-93112:Mataeo Durant,85398-93112,RB,Mataeo,Mataeo Durant,Durant,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-52410:Josh Malone,85398-52410,WR,Josh,Josh Malone,Malone,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-63419:Andy Isabella,85398-63419,WR,Andy,Andy Isabella,Isabella,1.549999952,2,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-64827:Miles Boykin,85398-64827,WR,Miles,Miles Boykin,Boykin,0.699999968,3,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-70206:Jason Huntley,85398-70206,RB,Jason,Jason Huntley,Huntley,5.099999905,1,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-87620:Nick Sciba,85398-87620,K,Nick,Nick Sciba,Sciba,7,1,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-56648:Jeremy McNichols,85398-56648,RB,Jeremy,Jeremy McNichols,McNichols,4.584615267,13,5000,PIT@BAL,PIT,BAL,IR,Shoulder,,,,MVP - 1.5X Points/AnyFLEX
+,85398-86984:Devon Williams,85398-86984,WR,Devon,Devon Williams,Williams,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-69069:Tony Poljan,85398-69069,TE,Tony,Tony Poljan,Poljan,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-41936:Anthony Miller,85398-41936,WR,Anthony,Anthony Miller,Miller,3.833333333,3,5000,PIT@BAL,PIT,BAL,IR,Shoulder,,,,MVP - 1.5X Points/AnyFLEX
+,85398-85845:Rashod Bateman,85398-85845,WR,Rashod,Rashod Bateman,Bateman,7.666666667,6,5000,PIT@BAL,BAL,PIT,IR,Foot,,,,MVP - 1.5X Points/AnyFLEX
+,85398-88277:Anthony McFarland Jr.,85398-88277,RB,Anthony,Anthony McFarland Jr.,McFarland Jr.,5.099999905,1,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-28890:Derek Watt,85398-28890,RB,Derek,Derek Watt,Watt,1.412500024,8,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-87515:Tylan Wallace,85398-87515,WR,Tylan,Tylan Wallace,Wallace,0.899999976,4,5000,PIT@BAL,BAL,PIT,IR,Hamstring,,,,MVP - 1.5X Points/AnyFLEX
+,85398-29915:Brett Hundley,85398-29915,QB,Brett,Brett Hundley,Hundley,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-92890:Cody White,85398-92890,WR,Cody,Cody White,White,0.699999988,1,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-170206:Rodney Williams II,85398-170206,TE,Rodney,Rodney Williams II,Williams II,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-64221:Zach Gentry,85398-64221,TE,Zach,Zach Gentry,Gentry,1.530769201,13,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-73180:Binjimen Victor,85398-73180,WR,Binjimen,Binjimen Victor,Victor,,,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-70881:Justin Rigg,85398-70881,TE,Justin,Justin Rigg,Rigg,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-71521:Justice Hill,85398-71521,RB,Justice,Justice Hill,Hill,2.50769219,13,5000,PIT@BAL,BAL,PIT,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-53729:Mason Rudolph,85398-53729,QB,Mason,Mason Rudolph,Rudolph,9.68999958,2,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-70889:Benny Snell Jr.,85398-70889,RB,Benny,Benny Snell Jr.,Snell Jr.,2.950000127,6,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-57330:Matthew Wright,85398-57330,K,Matthew,Matthew Wright,Wright,11.66666667,6,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-95092:Tyler Snead,85398-95092,WR,Tyler,Tyler Snead,Snead,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,85398-90870:Calvin Austin III,85398-90870,WR,Calvin,Calvin Austin III,Austin III,,,5000,PIT@BAL,PIT,BAL,IR,Foot,,,,MVP - 1.5X Points/AnyFLEX
+,85398-93814:Max Borghi,85398-93814,RB,Max,Max Borghi,Borghi,,,5000,PIT@BAL,PIT,BAL,,,,,,MVP - 1.5X Points/AnyFLEX

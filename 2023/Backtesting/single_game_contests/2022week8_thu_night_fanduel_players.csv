@@ -1,0 +1,20 @@
+keep,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Tier,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details
+x,82293-63115:Lamar Jackson,82293-63115,QB,Lamar,Lamar Jackson,Jackson,23.26857213,5,7,17500,BAL@TB,BAL,TB,,
+x,82293-6498:Tom Brady,82293-6498,QB,Tom,Tom Brady,Brady,15.15428598,5,7,15000,BAL@TB,TB,BAL,,
+x,82293-32384:Mike Evans,82293-32384,WR,Mike,Mike Evans,Evans,13.31666692,5,6,14000,BAL@TB,TB,BAL,,
+x,82293-52436:Mark Andrews,82293-52436,TE,Mark,Mark Andrews,Andrews,13.67142814,5,7,13500,BAL@TB,BAL,TB,Q,Knee
+x,82293-52922:Leonard Fournette,82293-52922,RB,Leonard,Leonard Fournette,Fournette,14.44285692,5,7,13000,BAL@TB,TB,BAL,,
+x,82293-55635:Chris Godwin,82293-55635,WR,Chris,Chris Godwin,Godwin,8.840000153,3,5,12500,BAL@TB,TB,BAL,,
+x,82293-40167:Gus Edwards,82293-40167,RB,Gus,Gus Edwards,Edwards,18.60000038,4,1,12000,BAL@TB,BAL,TB,Q,Knee
+x,82293-85845:Rashod Bateman,82293-85845,WR,Rashod,Rashod Bateman,Bateman,9.2,3,5,11000,BAL@TB,BAL,TB,Q,Foot
+x,82293-71032:Devin Duvernay,82293-71032,WR,Devin,Devin Duvernay,Duvernay,9.200000218,4,7,10000,BAL@TB,BAL,TB,,
+x,82293-23045:Justin Tucker,82293-23045,K,Justin,Justin Tucker,Tucker,10.42857143,4,7,9500,BAL@TB,BAL,TB,,
+x,82293-12555:Baltimore Ravens,82293-12555,D,Baltimore,Baltimore Ravens,Ravens,8.285714286,3,7,9500,BAL@TB,BAL,TB,,
+x,82293-12551:Tampa Bay Buccaneers,82293-12551,D,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,8,3,7,9000,BAL@TB,TB,BAL,,
+x,82293-6767:Ryan Succop,82293-6767,K,Ryan,Ryan Succop,Succop,9.428571429,4,7,9000,BAL@TB,TB,BAL,,
+x,82293-30989:Kenyan Drake,82293-30989,RB,Kenyan,Kenyan Drake,Drake,5.759999847,3,5,8500,BAL@TB,BAL,TB,,
+x,82293-86811:Cade Otton,82293-86811,TE,Cade,Cade Otton,Otton,4.859999847,3,5,8000,BAL@TB,TB,BAL,,
+x,82293-137902:Rachaad White,82293-137902,RB,Rachaad,Rachaad White,White,4.071428571,3,7,7500,BAL@TB,TB,BAL,,
+x,82293-71521:Justice Hill,82293-71521,RB,Justice,Justice Hill,Hill,3.4,3,5,7500,BAL@TB,BAL,TB,,
+x,82293-14190:Julio Jones,82293-14190,WR,Julio,Julio Jones,Jones,5.650000095,1,2,7500,BAL@TB,TB,BAL,Q,Knee
+x,82293-34295:Breshad Perriman,82293-34295,WR,Breshad,Breshad Perriman,Perriman,3.799999952,0,4,6000,BAL@TB,TB,BAL,,

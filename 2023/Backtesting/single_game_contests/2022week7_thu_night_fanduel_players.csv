@@ -1,0 +1,28 @@
+keep,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Tier,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details
+x,81945-63484:Kyler Murray,81945-63484,QB,Kyler,Kyler Murray,Murray,19.63666662,5,6,17000,NO@ARI,ARI,NO,,
+x,81945-42104:Alvin Kamara,81945-42104,RB,Alvin,Alvin Kamara,Kamara,12.05000019,4,4,15000,NO@ARI,NO,ARI,,
+x,81945-14225:Andy Dalton,81945-14225,QB,Andy,Andy Dalton,Dalton,11.69999949,3,3,14000,NO@ARI,NO,ARI,,
+,81945-86687:Marquise Brown,81945-86687,WR,Marquise,Marquise Brown,Brown,14.66666667,,6,13000,NO@ARI,ARI,NO,IR,Foot
+x,81945-16606:DeAndre Hopkins,81945-16606,WR,DeAndre,DeAndre Hopkins,Hopkins,12.61999969,4,10,12500,NO@ARI,ARI,NO,,
+,81945-28573:Michael Thomas,81945-28573,WR,Michael,Michael Thomas,Thomas,14.36666616,,3,12000,NO@ARI,NO,ARI,O,Foot
+,81945-40687:James Conner,81945-40687,RB,James,James Conner,Conner,8.659999847,4,5,12000,NO@ARI,ARI,NO,Q,Ribs
+x,81945-85762:Eno Benjamin,81945-85762,RB,Eno,Eno Benjamin,Benjamin,7.21666654,4,6,11000,NO@ARI,ARI,NO,,
+x,81945-87770:Chris Olave,81945-87770,WR,Chris,Chris Olave,Olave,12.68000031,5,5,11000,NO@ARI,NO,ARI,,
+x,81945-45565:Taysom Hill,81945-45565,TE,Taysom,Taysom Hill,Hill,12.58399963,3,5,10500,NO@ARI,NO,ARI,,
+x,81945-29780:Zach Ertz,81945-29780,TE,Zach,Zach Ertz,Ertz,10.23333359,4,6,10000,NO@ARI,ARI,NO,,
+x,81945-63791:Rodrigo Blankenship,81945-63791,K,Rodrigo,Rodrigo Blankenship,Blankenship,9,4,1,9500,NO@ARI,ARI,NO,,
+,81945-64194:Matt Ammendola,81945-64194,K,Matt,Matt Ammendola,Ammendola,5,4,4,9500,NO@ARI,ARI,NO,,
+x,81945-48380:Wil Lutz,81945-48380,K,Wil,Wil Lutz,Lutz,7.666666667,4,6,9500,NO@ARI,NO,ARI,,
+,81945-6782:Matt Prater,81945-6782,K,Matt,Matt Prater,Prater,6,4,4,9500,NO@ARI,ARI,NO,Q,Hip
+x,81945-12546:Arizona Cardinals,81945-12546,D,Arizona,Arizona Cardinals,Cardinals,6.666666667,3,6,9000,NO@ARI,ARI,NO,,
+x,81945-93408:Rondale Moore,81945-93408,WR,Rondale,Rondale Moore,Moore,6.566666921,4,3,9000,NO@ARI,ARI,NO,,
+x,81945-12542:New Orleans Saints,81945-12542,D,New Orleans,New Orleans Saints,Saints,4.333333333,2,6,9000,NO@ARI,NO,ARI,,
+,81945-52897:Darrel Williams,81945-52897,RB,Darrel,Darrel Williams,Williams,4.175000191,,4,8500,NO@ARI,ARI,NO,O,Knee
+,81945-31394:Jarvis Landry,81945-31394,WR,Jarvis,Jarvis Landry,Landry,6.574999809,,4,8000,NO@ARI,NO,ARI,O,Ankle
+x,81945-57342:Tre'Quan Smith,81945-57342,WR,Tre'Quan,Tre'Quan Smith,Smith,7.025000095,2,4,8000,NO@ARI,NO,ARI,,
+x,81945-14211:Mark Ingram II,81945-14211,RB,Mark,Mark Ingram II,Ingram II,4.883333206,2,6,7500,NO@ARI,NO,ARI,,
+x,81945-26251:Robbie Anderson,81945-26251,WR,Robbie,Robbie Anderson,Anderson,6.220000076,2,5,7000,NO@ARI,ARI,NO,,
+x,81945-71246:Marquez Callaway,81945-71246,WR,Marquez,Marquez Callaway,Callaway,5.074999809,2,4,7000,NO@ARI,NO,ARI,,
+x,81945-14187:A.J. Green,81945-14187,WR,A.J.,A.J. Green,Green,2.520000076,2,5,7000,NO@ARI,ARI,NO,,
+x,81945-92545:Keaontay Ingram,81945-92545,RB,Keaontay,Keaontay Ingram,Ingram,0.699999988,0,1,6500,NO@ARI,ARI,NO,,
+x,81945-64808:Juwan Johnson,81945-64808,TE,Juwan,Juwan Johnson,Johnson,4,4,6,6500,NO@ARI,NO,ARI,,

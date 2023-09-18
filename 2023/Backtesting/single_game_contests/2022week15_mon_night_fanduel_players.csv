@@ -1,0 +1,70 @@
+keep,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+x,84931-6894:Aaron Rodgers,84931-6894,QB,Aaron,Aaron Rodgers,Rodgers,16.5,13,16000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-41535:Baker Mayfield,84931-41535,QB,Baker,Baker Mayfield,Mayfield,13,8,14000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-40442:Aaron Jones,84931-40442,RB,Aaron,Aaron Jones,Jones,15.5,13,13500,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-169776:Christian Watson,84931-169776,WR,Christian,Christian Watson,Watson,9.8,10,13000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-89230:Cam Akers,84931-89230,RB,Cam,Cam Akers,Akers,7.14,11,12000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-93107:AJ Dillon,84931-93107,RB,AJ,AJ Dillon,Dillon,8.292307927,13,11500,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-64581:Van Jefferson,84931-64581,WR,Van,Van Jefferson,Jefferson,8.4,6,11000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-56809:Allen Lazard,84931-56809,WR,Allen,Allen Lazard,Lazard,10.40909091,11,10000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-60787:Bryce Perkins,84931-60787,QB,Bryce,Bryce Perkins,Perkins,4.409999847,4,10000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-14257:Randall Cobb,84931-14257,WR,Randall,Randall Cobb,Cobb,5.988889058,9,9500,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-12533:Green Bay Packers,84931-12533,D,Green Bay,Green Bay Packers,Packers,5.384615385,13,9000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-87180:Matt Gay,84931-87180,K,Matt,Matt Gay,Gay,7,13,8500,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-12538:Los Angeles Rams,84931-12538,D,Los Angeles,Los Angeles Rams,Rams,5.384615385,13,8500,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-71105:Ben Skowronek,84931-71105,WR,Ben,Ben Skowronek,Skowronek,4.923076923,13,8000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-6897:Mason Crosby,84931-6897,K,Mason,Mason Crosby,Crosby,5.692307692,13,8000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-52345:Brandon Powell,84931-52345,WR,Brandon,Brandon Powell,Powell,2.13846148,13,7500,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-47870:Tyler Higbee,84931-47870,TE,Tyler,Tyler Higbee,Higbee,5.958333333,12,7500,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-56192:John Wolford,84931-56192,QB,John,John Wolford,Wolford,8.899999619,2,7000,LAR@GB,LAR,GB,O,Neck,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-24641:Sammy Watkins,84931-24641,WR,Sammy,Sammy Watkins,Watkins,3.871428626,7,7000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-104433:Kyren Williams,84931-104433,RB,Kyren,Kyren Williams,Williams,4.420000076,5,7000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-94370:Romeo Doubs,84931-94370,WR,Romeo,Romeo Doubs,Doubs,7.111111111,9,6500,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-152631:Samori Toure,84931-152631,WR,Samori,Samori Toure,Toure,4.175000191,4,6500,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-80353:Robert Tonyan,84931-80353,TE,Robert,Robert Tonyan,Tonyan,5.053845919,13,6500,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+x,84931-92976:Tutu Atwell,84931-92976,WR,Tutu,Tutu Atwell,Atwell,4.737500191,8,6000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-72627:Patrick Taylor,84931-72627,RB,Patrick,Patrick Taylor,Taylor,0.600000024,1,6000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-63697:Brycen Hopkins,84931-63697,TE,Brycen,Brycen Hopkins,Hopkins,1.149999976,4,5500,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-88685:Austin Trammell,84931-88685,WR,Austin,Austin Trammell,Trammell,1.149999976,2,5500,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-60910:Dede Westbrook,84931-60910,WR,Dede,Dede Westbrook,Westbrook,0.983333349,12,5500,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-130309:J.J. Koski,84931-130309,WR,J.J.,J.J. Koski,Koski,-0.666666667,3,5000,LAR@GB,LAR,GB,IR,Shoulder,,,,MVP - 1.5X Points/AnyFLEX
+,84931-91783:Warren Jackson,84931-91783,WR,Warren,Warren Jackson,Jackson,,,5000,LAR@GB,LAR,GB,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84931-87690:Sal Cannella,84931-87690,TE,Sal,Sal Cannella,Cannella,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-6672:Marcedes Lewis,84931-6672,TE,Marcedes,Marcedes Lewis,Lewis,2.875,4,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-71697:Shaun Beyer,84931-71697,TE,Shaun,Shaun Beyer,Beyer,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-64023:Kyle Markway,84931-64023,TE,Kyle,Kyle Markway,Markway,,,5000,LAR@GB,LAR,GB,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84931-69017:Jordan Love,84931-69017,QB,Jordan,Jordan Love,Love,3.813333193,3,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-72091:Raymond Calais,84931-72091,RB,Raymond,Raymond Calais,Calais,,,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-93343:Roger Carter Jr.,84931-93343,TE,Roger,Roger Carter Jr.,Carter Jr.,,,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-130337:Case Cookus,84931-130337,QB,Case,Case Cookus,Cookus,,,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-72103:Trey Ragas,84931-72103,RB,Trey,Trey Ragas,Ragas,2.5,1,5000,LAR@GB,LAR,GB,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84931-130343:Jeff Cotton Jr.,84931-130343,WR,Jeff,Jeff Cotton Jr.,Cotton Jr.,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-55209:Nate Becker,84931-55209,TE,Nate,Nate Becker,Becker,,,5000,LAR@GB,GB,LAR,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84931-69676:Jamal Pettigrew,84931-69676,TE,Jamal,Jamal Pettigrew,Pettigrew,,,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-105648:Tyler Goodson,84931-105648,RB,Tyler,Tyler Goodson,Goodson,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-57651:Travis Fulgham,84931-57651,WR,Travis,Travis Fulgham,Fulgham,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-38837:Danny Etling,84931-38837,QB,Danny,Danny Etling,Etling,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-86839:Jack Coco,84931-86839,TE,Jack,Jack Coco,Coco,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-61112:Josiah Deguara,84931-61112,TE,Josiah,Josiah Deguara,Deguara,2.300000054,7,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-89663:Danny Davis,84931-89663,WR,Danny,Danny Davis,Davis,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-91971:Ronnie Rivers,84931-91971,RB,Ronnie,Ronnie Rivers,Rivers,3.75,2,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-64835:Dexter Williams,84931-64835,RB,Dexter,Dexter Williams,Williams,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-65607:Jacob Harris,84931-65607,WR,Jacob,Jacob Harris,Harris,1.100000024,1,5000,LAR@GB,LAR,GB,IR,Pectoral,,,,MVP - 1.5X Points/AnyFLEX
+,84931-56142:Juwann Winfree,84931-56142,WR,Juwann,Juwann Winfree,Winfree,0.733333349,3,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-169937:Lance McCutcheon,84931-169937,WR,Lance,Lance McCutcheon,McCutcheon,0,1,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-40148:Ishmael Hyman,84931-40148,WR,Ishmael,Ishmael Hyman,Hyman,,,5000,LAR@GB,GB,LAR,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,84931-71382:Osirus Mitchell,84931-71382,WR,Osirus,Osirus Mitchell,Mitchell,,,5000,LAR@GB,GB,LAR,Q,Quadriceps,,,,MVP - 1.5X Points/AnyFLEX
+,84931-91225:Kylin Hill,84931-91225,RB,Kylin,Kylin Hill,Hill,0.699999988,1,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-69343:Landen Akers,84931-69343,WR,Landen,Landen Akers,Akers,,,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-87649:Jaquarii Roberson,84931-87649,WR,Jaquarii,Jaquarii Roberson,Roberson,,,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-104289:Malik Taylor,84931-104289,WR,Malik,Malik Taylor,Taylor,0.080000001,5,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-63201:Xavier Jones,84931-63201,RB,Xavier,Xavier Jones,Jones,,,5000,LAR@GB,LAR,GB,Q,Achilles,,,,MVP - 1.5X Points/AnyFLEX
+,84931-86627:Gabe Brkic,84931-86627,K,Gabe,Gabe Brkic,Brkic,,,5000,LAR@GB,GB,LAR,Q,Hamstring,,,,MVP - 1.5X Points/AnyFLEX
+,84931-28643:Allen Robinson II,84931-28643,WR,Allen,Allen Robinson II,Robinson II,6.840000153,10,5000,LAR@GB,LAR,GB,IR,Foot,,,,MVP - 1.5X Points/AnyFLEX
+,84931-79970:Cooper Kupp,84931-79970,WR,Cooper,Cooper Kupp,Kupp,18.21111043,9,5000,LAR@GB,LAR,GB,IR,Ankle,,,,MVP - 1.5X Points/AnyFLEX
+,84931-32234:Malcolm Brown,84931-32234,RB,Malcolm,Malcolm Brown,Brown,2.349999905,4,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-70892:A.J. Rose Jr.,84931-70892,RB,A.J.,A.J. Rose Jr.,Rose Jr.,,,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-63603:Jared Pinkney,84931-63603,WR,Jared,Jared Pinkney,Pinkney,,,5000,LAR@GB,LAR,GB,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-61172:Tyler Davis,84931-61172,TE,Tyler,Tyler Davis,Davis,0.919999981,5,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
+,84931-6654:Matthew Stafford,84931-6654,QB,Matthew,Matthew Stafford,Stafford,12.93111081,9,5000,LAR@GB,LAR,GB,IR,Neck,,,,MVP - 1.5X Points/AnyFLEX
+,84931-169853:Josh Babicz,84931-169853,TE,Josh,Josh Babicz,Babicz,,,5000,LAR@GB,GB,LAR,,,,,,MVP - 1.5X Points/AnyFLEX
