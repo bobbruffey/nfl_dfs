@@ -99,7 +99,7 @@ def update_player_weekly_stats():
        'https://www.pro-football-reference.com/players/L/',
        'https://www.pro-football-reference.com/players/M/',
        'https://www.pro-football-reference.com/players/N/',
-        'https://www.pro-football-reference.com/players/O/',
+       'https://www.pro-football-reference.com/players/O/',
        'https://www.pro-football-reference.com/players/P/',
        'https://www.pro-football-reference.com/players/Q/',
        'https://www.pro-football-reference.com/players/R/',
@@ -415,22 +415,27 @@ def pull_all_player_data(player_df, def_df, position):
 
         for i in range(0,len(qb)):
         #for i in range(len(qb)):
-            time.sleep(3.1)
-            print(i)
-            player = qb['Player'][i]
-            print(qb['Player'][i])
-            url = qb['Gamelog'][i]
-            #print(qb['Player'][i])
-            data = requests.get(url).text
-            #print(data)
-            soup = BeautifulSoup(data, 'html.parser')
-            #print(soup)
-            dfs = pd.read_html(data)
-            df = dfs[0]
-            df['Player'] = player
-            #print(df.head())    
-            #print(df.columns)
-            df_qb = pd.concat([df_qb, df], axis=0, ignore_index=True)
+            try:
+                time.sleep(3.1)
+                print(i)
+                player = qb['Player'][i]
+                print(qb['Player'][i])
+                url = qb['Gamelog'][i]
+                #print(qb['Player'][i])
+                data = requests.get(url).text
+                #print(data)
+                soup = BeautifulSoup(data, 'html.parser')
+                #print(soup)
+                dfs = pd.read_html(data)
+                df = dfs[0]
+                df['Player'] = player
+                #print(df.head())    
+                #print(df.columns)
+                df_qb = pd.concat([df_qb, df], axis=0, ignore_index=True)
+            except:
+                print("No tables found exception")
+                i = i - 1
+                continue
         
         df_qb.columns = df_qb.columns.get_level_values(0) + '' +  df_qb.columns.get_level_values(1)
         if (position == 'QB'):
@@ -897,22 +902,27 @@ def position_feat_eng_df_creation(player_df,
 
         for i in range(0,len(qb)):
         #for i in range(len(qb)):
-            time.sleep(3.1)
-            print(i)
-            player = qb['Player'][i]
-            print(qb['Player'][i])
-            url = qb['Gamelog'][i]
-            #print(qb['Player'][i])
-            data = requests.get(url).text
-            #print(data)
-            soup = BeautifulSoup(data, 'html.parser')
-            #print(soup)
-            dfs = pd.read_html(data)
-            df = dfs[0]
-            df['Player'] = player
-            #print(df.head())    
-            #print(df.columns)
-            df_qb = pd.concat([df_qb, df], axis=0, ignore_index=True)
+            try:
+                time.sleep(3.1)
+                print(i)
+                player = qb['Player'][i]
+                print(qb['Player'][i])
+                url = qb['Gamelog'][i]
+                #print(qb['Player'][i])
+                data = requests.get(url).text
+                #print(data)
+                soup = BeautifulSoup(data, 'html.parser')
+                #print(soup)
+                dfs = pd.read_html(data)
+                df = dfs[0]
+                df['Player'] = player
+                #print(df.head())    
+                #print(df.columns)
+                df_qb = pd.concat([df_qb, df], axis=0, ignore_index=True)
+            except:
+                print("No tables found exception")
+                i = i - 1
+                continue
         
         df_qb.columns = df_qb.columns.get_level_values(0) + '' +  df_qb.columns.get_level_values(1)
         if (position == 'QB'):
@@ -1083,62 +1093,6 @@ def position_feat_eng_df_creation(player_df,
                 
             ]]
             
-#             df_qb = df_qb.drop(columns  = ['Def. SnapsNum', 'Def. SnapsPct','Def InterceptionsInt',
-#                                            'Def InterceptionsPD', 'Def InterceptionsTD',
-#                                    'Def InterceptionsYds',
-#                                       # 'Kick ReturnsRt','Kick ReturnsTD',
-#                                       # 'Kick ReturnsY/Rt', 'Kick ReturnsYds',
-#                                       # 'Punt ReturnsRet', 'Punt ReturnsTD',
-#                                       # 'Punt ReturnsY/R','Punt ReturnsYds',
-#                                     #   'PuntingBlck', 'PuntingPnt', 'PuntingY/P',
-#                                      #  'PuntingYds', 
-#                                         #'ReceivingCtch%', 'ReceivingRec', 'ReceivingTD',
-#                                        #'ReceivingTgt', 'ReceivingY/R', 'ReceivingY/Tgt', 'ReceivingYds',
-#                                        'TacklesAst', 'TacklesComb',
-#                                        'TacklesQBHits', 'TacklesSolo',
-#                                        'TacklesTFL',
-#                                              'PassingAY/A','PassingAtt',
-#                                         'PassingCmp', 'PassingCmp%',
-#                                         'PassingInt', 'PassingRate',
-#                                         'PassingSk', 'PassingTD',
-#                                         'PassingY/A', 'PassingYds',
-#                                         'PassingYds.1',
-#                                            'Unnamed: 21_level_0Status',
-#                                        'Unnamed: 26_level_0Sk', 'Unnamed: 28_level_0Sk',
-#                                        'Unnamed: 28_level_0Status', 'Unnamed: 29_level_0Sk',
-#                                        'Unnamed: 32_level_0Status',
-#                                        'Unnamed: 33_level_0Sk', 'Unnamed: 34_level_0Status',
-#                                       # 'Unnamed: 35_level_0Sk', 'Unnamed: 35_level_0Status',
-#                                        'Unnamed: 36_level_0Sk', #'Unnamed: 37_level_0Sk',
-#                                        'Unnamed: 38_level_0Status',  'Unnamed: 40_level_0Status',
-#                                        'Unnamed: 41_level_0Status','Unnamed: 43_level_0Sk', 'Unnamed: 44_level_0Status',
-#                                        'Unnamed: 46_level_0Status', 'Unnamed: 47_level_0Status',
-#                                        'Unnamed: 48_level_0Status',# 'Unnamed: 49_level_0Status',
-#                                 'Unnamed: 51_level_0Status',#'Unnamed: 53_level_0Status', 
-#                                            'Unnamed: 54_level_0Status',
-#                                 'Unnamed: 61_level_0Status','Unnamed: 59_level_0Status', 'Unnamed: 60_level_0Status',
-#                                'Unnamed: 62_level_0Status', 'Unnamed: 65_level_0Status',
-#                                'Unnamed: 66_level_0Status','ScoringXP%', 'ScoringXPA', 'ScoringXPM',
-#                                            'Unnamed: 11_level_0Sk', 'Unnamed: 15_level_0Sk',
-#                                    'Unnamed: 17_level_0Status', 'Unnamed: 18_level_0Sk','Unnamed: 19_level_0Sk',
-#                                           'Unnamed: 20_level_0Sk', 'Unnamed: 21_level_0Sk', 'Unnamed: 22_level_0Sk',
-#                                    'Unnamed: 23_level_0Sk', 'Unnamed: 23_level_0Status',
-#                                    'Unnamed: 24_level_0Sk', 'Unnamed: 24_level_0Status',
-#                                    'Unnamed: 25_level_0Sk', 'Unnamed: 25_level_0Status',
-#                                        'Unnamed: 26_level_0Status', 'Unnamed: 27_level_0Status',
-#                                            'Unnamed: 29_level_0Status','Unnamed: 30_level_0Sk',
-#                                    'Unnamed: 30_level_0Status', 'Unnamed: 31_level_0Sk',
-#                                    'Unnamed: 31_level_0Status', 'Unnamed: 32_level_0Sk',
-#                                    'Unnamed: 33_level_0Status', 'Unnamed: 35_level_0Status',
-#                                            'Unnamed: 36_level_0Status', 'Unnamed: 37_level_0Status',
-#                                        'Unnamed: 39_level_0Sk', 'Unnamed: 39_level_0Status','Unnamed: 40_level_0Sk', 'Unnamed: 41_level_0Sk',
-#                                    'Unnamed: 42_level_0Status', 'Unnamed: 43_level_0Status',
-#                                    'Unnamed: 44_level_0Sk', 'Unnamed: 45_level_0Status',
-#                                    'Unnamed: 49_level_0Status','Unnamed: 50_level_0Status',
-#                                    'Unnamed: 52_level_0Status', 'Unnamed: 55_level_0Status',
-#                                    'Unnamed: 56_level_0Status', 'Unnamed: 57_level_0Status',
-#                                    'Unnamed: 58_level_0Status','ScoringFG%', 'ScoringFGA', 'ScoringFGM'
-#                                           ])
 
             print(df_qb.columns)
         
@@ -1154,12 +1108,6 @@ def position_feat_eng_df_creation(player_df,
                                             'Kick ReturnsYds':'Kick Returns Yds',
                                             'Off. SnapsNum':'Off. Snaps Num',
                                         'Off. SnapsPct':'Off. Snaps Pct',
-                                       # 'PassingAY/A':'Passing AY/A','PassingAtt':'Passing Att',
-                                       # 'PassingCmp':'Passing Cmp', 'PassingCmp%':'Passing Cmp%',
-                                       # 'PassingInt':'Passing Int', 'PassingRate':'Passing Rate',
-                                       # 'PassingSk':'Passing Sk', 'PassingTD': 'Passing TD',
-                                       # 'PassingY/A':'Passing Y/A', 'PassingYds':'Passing Yds',
-                                       # 'PassingYds.1':'Passing Yds.1',
                                         'Player':'Player ', 
                                             'Punt ReturnsRet':'Punt Returns Ret',
                                             'Punt ReturnsTD':'Punt Returns TD',
@@ -1180,13 +1128,6 @@ def position_feat_eng_df_creation(player_df,
                                         'ST SnapsNum':'ST Snaps Num', 'ST SnapsPct':'ST Snaps Pct',
                                         'Scoring2PM':'Scoring 2PM', 'ScoringPts':'Scoring Pts',
                                         'ScoringTD':'Scoring TD',
-                                            
-                                     #   'TacklesAst':'Tackles Ast',
-                                      #      'TacklesComb':'Tackles Comb',
-                                      # 'TacklesQBHits':'Tackles QBHits',
-                                      #      'TacklesSolo':'Tackles Solo',
-                                      # 'TacklesTFL':'TacklesTFL',
-                                            
                                         'Unnamed: 0_level_0Rk':'Rk', 'Unnamed: 10_level_0GS':'GS',
                                         'Unnamed: 1_level_0Year':'Year', 'Unnamed: 2_level_0Date':'Date',
                                         'Unnamed: 3_level_0G#':'G#', 'Unnamed: 4_level_0Week':'Week',
@@ -1232,12 +1173,6 @@ def position_feat_eng_df_creation(player_df,
                                             'Kick ReturnsYds':'Kick Returns Yds',
                                             'Off. SnapsNum':'Off. Snaps Num',
                                         'Off. SnapsPct':'Off. Snaps Pct',
-                                       # 'PassingAY/A':'Passing AY/A','PassingAtt':'Passing Att',
-                                       # 'PassingCmp':'Passing Cmp', 'PassingCmp%':'Passing Cmp%',
-                                       # 'PassingInt':'Passing Int', 'PassingRate':'Passing Rate',
-                                       # 'PassingSk':'Passing Sk', 'PassingTD': 'Passing TD',
-                                       # 'PassingY/A':'Passing Y/A', 'PassingYds':'Passing Yds',
-                                       # 'PassingYds.1':'Passing Yds.1',
                                         'Player':'Player ', 
                                             'Punt ReturnsRet':'Punt Returns Ret',
                                             'Punt ReturnsTD':'Punt Returns TD',
@@ -1258,13 +1193,6 @@ def position_feat_eng_df_creation(player_df,
                                         'ST SnapsNum':'ST Snaps Num', 'ST SnapsPct':'ST Snaps Pct',
                                         'Scoring2PM':'Scoring 2PM', 'ScoringPts':'Scoring Pts',
                                         'ScoringTD':'Scoring TD',
-                                            
-                                     #   'TacklesAst':'Tackles Ast',
-                                      #      'TacklesComb':'Tackles Comb',
-                                      # 'TacklesQBHits':'Tackles QBHits',
-                                      #      'TacklesSolo':'Tackles Solo',
-                                      # 'TacklesTFL':'TacklesTFL',
-                                            
                                         'Unnamed: 0_level_0Rk':'Rk', 'Unnamed: 10_level_0GS':'GS',
                                         'Unnamed: 1_level_0Year':'Year', 'Unnamed: 2_level_0Date':'Date',
                                         'Unnamed: 3_level_0G#':'G#', 'Unnamed: 4_level_0Week':'Week',
@@ -1411,26 +1339,10 @@ def position_feat_eng_df_creation(player_df,
         print(qb_df.shape)
         tms = ['Tm','Tm 1 wks ago', 'Tm 2 wks ago',
               'Tm 3 wks ago','Tm 4 wks ago','Tm 5 wks ago','Tm 6 wks ago'#,
-#               'Tm 7 wks ago','Tm 8 wks ago','Tm 9 wks ago','Tm 10 wks ago',
-#               'Tm 11 wks ago','Tm 12 wks ago','Tm 13 wks ago','Tm 14 wks ago',
-#               'Tm 15 wks ago','Tm 16 wks ago','Tm 17 wks ago','Tm 18 wks ago',
-#               'Tm 19 wks ago','Tm 20 wks ago','Tm 21 wks ago','Tm 22 wks ago',
-#               'Tm 23 wks ago','Tm 24 wks ago','Tm 25 wks ago','Tm 26 wks ago',
-#               'Tm 27 wks ago','Tm 28 wks ago','Tm 29 wks ago','Tm 30 wks ago',
-#               'Tm 31 wks ago','Tm 32 wks ago','Tm 33 wks ago','Tm 34 wks ago',
-#               'Tm 35 wks ago'
               ]
 
         opp = ['Opp','Opp 1 wks ago', 'Opp 2 wks ago',
               'Opp 3 wks ago','Opp 4 wks ago','Opp 5 wks ago','Opp 6 wks ago'#,
-#               'Opp 7 wks ago','Opp 8 wks ago','Opp 9 wks ago','Opp 10 wks ago',
-#               'Opp 11 wks ago','Opp 12 wks ago','Opp 13 wks ago','Opp 14 wks ago',
-#               'Opp 15 wks ago','Opp 16 wks ago','Opp 17 wks ago','Opp 18 wks ago',
-#               'Opp 19 wks ago','Opp 20 wks ago','Opp 21 wks ago','Opp 22 wks ago',
-#               'Opp 23 wks ago','Opp 24 wks ago','Opp 25 wks ago','Opp 26 wks ago',
-#               'Opp 27 wks ago','Opp 28 wks ago','Opp 29 wks ago','Opp 30 wks ago',
-#               'Opp 31 wks ago','Opp 32 wks ago','Opp 33 wks ago','Opp 34 wks ago',
-#               'Opp 35 wks ago'
               ]
         
         for i in tms:
@@ -1463,41 +1375,18 @@ def position_feat_eng_df_creation(player_df,
         #opp
         opp_wk_year = ['opp wk year', 'opp 1 wk year ago', 'opp 2 wk year ago', 'opp 3 wk year ago',
               'opp 4 wk year ago', 'opp 5 wk year ago', 'opp 6 wk year ago'#, 'opp 7 wk year ago',
-#               'opp 8 wk year ago', 'opp 9 wk year ago', 'opp 10 wk year ago', 'opp 11 wk year ago',
-#               'opp 12 wk year ago', 'opp 13 wk year ago', 'opp 14 wk year ago', 'opp 15 wk year ago',
-#               'opp 16 wk year ago', 'opp 17 wk year ago', 'opp 18 wk year ago', 'opp 19 wk year ago',
-#               'opp 20 wk year ago', 'opp 21 wk year ago', 'opp 22 wk year ago', 'opp 23 wk year ago',
-#               'opp 24 wk year ago', 'opp 25 wk year ago', 'opp 26 wk year ago', 'opp 27 wk year ago',
-#               'opp 28 wk year ago', 'opp 29 wk year ago', 'opp 30 wk year ago', 'opp 31 wk year ago',
-#               'opp 32 wk year ago', 'opp 33 wk year ago', 'opp 34 wk year ago', 'opp 35 wk year ago'
                       ]
 
         wk = ['Week', 'Week 1 wks ago', 'Week 2 wks ago', 'Week 3 wks ago', 'Week 4 wks ago', 'Week 5 wks ago',
               'Week 6 wks ago'#, 'Week 7 wks ago', 'Week 8 wks ago', 'Week 9 wks ago', 'Week 10 wks ago',
-#               'Week 11 wks ago', 'Week 12 wks ago', 'Week 13 wks ago', 'Week 14 wks ago', 'Week 15 wks ago',
-#               'Week 16 wks ago', 'Week 17 wks ago', 'Week 18 wks ago', 'Week 19 wks ago', 'Week 20 wks ago',
-#               'Week 21 wks ago', 'Week 22 wks ago', 'Week 23 wks ago', 'Week 24 wks ago', 'Week 25 wks ago',
-#               'Week 26 wks ago', 'Week 27 wks ago', 'Week 28 wks ago', 'Week 29 wks ago', 'Week 30 wks ago',
-#               'Week 31 wks ago', 'Week 32 wks ago', 'Week 33 wks ago', 'Week 34 wks ago', 'Week 35 wks ago',
-#               'Week 36 wks ago'
              ]
 
         year = ['Year', 'year 1 wks ago', 'year 2 wks ago', 'year 3 wks ago', 'year 4 wks ago', 'year 5 wks ago',
                'year 6 wks ago'#, 'year 7 wks ago', 'year 8 wks ago', 'year 9 wks ago', 'year 10 wks ago',
-#                'year 11 wks ago', 'year 12 wks ago', 'year 13 wks ago', 'year 14 wks ago', 'year 15 wks ago',
-#                'year 16 wks ago', 'year 17 wks ago', 'year 18 wks ago', 'year 19 wks ago', 'year 20 wks ago',
-#                'year 21 wks ago', 'year 22 wks ago', 'year 23 wks ago', 'year 24 wks ago', 'year 25 wks ago',
-#                'year 26 wks ago', 'year 27 wks ago', 'year 28 wks ago', 'year 29 wks ago', 'year 30 wks ago',
-#                'year 31 wks ago', 'year 32 wks ago', 'year 33 wks ago', 'year 34 wks ago', 'year 35 wks ago',
-#                'year 36 wks ago'
                ]
         
         
         for i in range(0,7):
-            #print(i)
-            #print(opp[i])
-            #print(wk[i])
-            #print(year[i])
             opp_colname = opp[i]
             wk_colname = wk[i]
             year_colname = year[i]#.astype(int)
@@ -1515,13 +1404,6 @@ def position_feat_eng_df_creation(player_df,
 
         test_df = qb_df[['player_wk_year','opp wk year', 'opp 1 wk year ago', 'opp 2 wk year ago', 'opp 3 wk year ago',
               'opp 4 wk year ago', 'opp 5 wk year ago', 'opp 6 wk year ago'#, 'opp 7 wk year ago',
-#               'opp 8 wk year ago', 'opp 9 wk year ago', 'opp 10 wk year ago', 'opp 11 wk year ago',
-#               'opp 12 wk year ago', 'opp 13 wk year ago', 'opp 14 wk year ago', 'opp 15 wk year ago',
-#               'opp 16 wk year ago', 'opp 17 wk year ago', 'opp 18 wk year ago', 'opp 19 wk year ago',
-#               'opp 20 wk year ago', 'opp 21 wk year ago', 'opp 22 wk year ago', 'opp 23 wk year ago',
-#               'opp 24 wk year ago', 'opp 25 wk year ago', 'opp 26 wk year ago', 'opp 27 wk year ago',
-#               'opp 28 wk year ago', 'opp 29 wk year ago', 'opp 30 wk year ago', 'opp 31 wk year ago',
-#               'opp 32 wk year ago', 'opp 33 wk year ago', 'opp 34 wk year ago', 'opp 35 wk year ago'
                         ]]
         print(test_df.shape)
         new_df = pd.DataFrame()
@@ -1562,15 +1444,6 @@ def position_feat_eng_df_creation(player_df,
         qb_df2 = qb_df.drop(columns = ['Week', 'Opp', 'opp wk year', 'opp 1 wk year ago', 'opp 2 wk year ago',
            'opp 3 wk year ago', 'opp 4 wk year ago', 'opp 5 wk year ago',
            'opp 6 wk year ago'#, 'opp 7 wk year ago', 'opp 8 wk year ago',
-#            'opp 9 wk year ago', 'opp 10 wk year ago', 'opp 11 wk year ago',
-#            'opp 12 wk year ago', 'opp 13 wk year ago', 'opp 14 wk year ago',
-#            'opp 15 wk year ago', 'opp 16 wk year ago', 'opp 17 wk year ago',
-#            'opp 18 wk year ago', 'opp 19 wk year ago', 'opp 20 wk year ago',
-#            'opp 21 wk year ago', 'opp 22 wk year ago', 'opp 23 wk year ago',
-#            'opp 24 wk year ago', 'opp 25 wk year ago', 'opp 26 wk year ago',
-#            'opp 27 wk year ago', 'opp 28 wk year ago', 'opp 29 wk year ago',
-#            'opp 30 wk year ago', 'opp 31 wk year ago', 'opp 32 wk year ago',
-#            'opp 33 wk year ago', 'opp 34 wk year ago', 'opp 35 wk year ago'
                                       ])
         
 
@@ -1600,71 +1473,7 @@ def position_feat_eng_df_creation(player_df,
             test_df[team_wk_year] = test_df['CITY'] + " " + test_df[week_num_wks_ago].astype(str) + " " + test_df[year_wks_ago].astype(str)
         
         return new_df2
-            
-#         #test_df.head()
-#         new_def_df = pd.DataFrame()
-#         return test_df
-#         for i in range(0,36):
-#             #print(i)
-#             if (i == 0):
-#                 #new_df = df_qb2
-#                 test_df = test_df.drop(columns = ['CITY','week_num','year'])
-#                 new_def_df = pd.merge(def_df, test_df, how = 'left', on = ['team_wk_year'], suffixes = (None, None))
-#               #  new_def_df = new_def_df.drop(columns = ['team_wk_year'])
-#                 new_def_df = new_def_df.drop_duplicates(subset=['team_wk_year'], keep='last')
-                
-#                 print(new_def_df.head())
-#             else:
-#                 temp_df = def_df.drop(columns = ['Team','CITY','Week','week_num','year'])
-#               #  temp_df2 = temp_df
-#                 for col in temp_df.columns:
-#                     new_col = 'def matchup' + " " + col + " " + str(i) + 'wks ago'
-#                     temp_df[new_col] = temp_df[col]
-#                     temp_df = temp_df.drop(columns = [col])
-#                 #merge_column = "player " + str(i) + " wks ago"
-#                 #merge_column = 
-#                 merge_column = "team_wk_year " + str(i) + " wks ago"
-#                 temp_df[merge_column] = def_df['team_wk_year']
-#                 #temp_df['team_wk_year'] = def_df['team_wk_year']
-#                # qb_no_null = qb_no_null.drop(columns = [opp_wk_year[i]])
-#                 temp_df = temp_df.drop_duplicates(subset=[merge_column], keep='last')
-#                 temp_df = temp_df.drop_duplicates()
-#                 new_def_df = pd.merge(new_def_df, temp_df, how = 'left', on = [merge_column], suffixes = (None, None))
-#                 new_def_df = new_def_df.drop(columns = ['team_wk_year'])
 
-        
-#         new_def_df2 = new_def_df.drop(columns = ['week num 1 wks ago', 'year 1 wks ago', 'week num 2 wks ago',
-#                'year 2 wks ago', 'week num 3 wks ago', 'year 3 wks ago',
-#                'week num 4 wks ago', 'year 4 wks ago', 'week num 5 wks ago',
-#                'year 5 wks ago', 'week num 6 wks ago', 'year 6 wks ago',
-#                'week num 7 wks ago', 'year 7 wks ago', 'week num 8 wks ago',
-#                'year 8 wks ago', 'week num 9 wks ago', 'year 9 wks ago',
-#                'week num 10 wks ago', 'year 10 wks ago', 'week num 11 wks ago',
-#                'year 11 wks ago', 'week num 12 wks ago', 'year 12 wks ago',
-#                'week num 13 wks ago', 'year 13 wks ago', 'week num 14 wks ago',
-#                'year 14 wks ago', 'week num 15 wks ago', 'year 15 wks ago',
-#                'week num 16 wks ago', 'year 16 wks ago', 'week num 17 wks ago',
-#                'year 17 wks ago', 'week num 18 wks ago', 'year 18 wks ago',
-#                'week num 19 wks ago', 'year 19 wks ago', 'week num 20 wks ago',
-#                'year 20 wks ago', 'week num 21 wks ago', 'year 21 wks ago',
-#                'week num 22 wks ago', 'year 22 wks ago', 'week num 23 wks ago',
-#                'year 23 wks ago', 'week num 24 wks ago', 'year 24 wks ago',
-#                'week num 25 wks ago', 'year 25 wks ago', 'week num 26 wks ago',
-#                'year 26 wks ago', 'week num 27 wks ago', 'year 27 wks ago',
-#                'week num 28 wks ago', 'year 28 wks ago', 'week num 29 wks ago',
-#                'year 29 wks ago', 'week num 30 wks ago', 'year 30 wks ago',
-#                'week num 31 wks ago', 'year 31 wks ago', 'week num 32 wks ago',
-#                'year 32 wks ago', 'week num 33 wks ago', 'year 33 wks ago',
-#                'week num 34 wks ago', 'year 34 wks ago', 'week num 35 wks ago',
-#                'year 35 wks ago', 'Team', 'CITY', 'Week', 'Sack', 'FR', 'INT', 'DefTD',
-#                'PA', 'PaYD', 'RuYd', 'Safety', 'KickTD', 'FPts', 'week_num',
-#                'year', 'Opp', 'away flag'#, 'opp_wk_year'
-#                                                 ])
-        
-#         new_df3 = pd.merge(new_df2,new_def_df2,how = 'left', left_on = ['opp wk year'], right_on = ['team_wk_year'], suffixes = (None,None))
-#         print(new_df3.shape)
-#         new_df3.to_csv(file_save)
-#         return new_df3
 
 
 def position_feat_eng_df_creation2(new_df2, def_df, position,
@@ -1705,31 +1514,6 @@ def position_feat_eng_df_creation2(new_df2, def_df, position,
 
             test_df2 = test_df2.append(team_name_df)
     
-        
-#         test_df = def_df[['CITY','week_num', 'year', 'team_wk_year']]
-#         for i in range(1,7):
-#             #print(i)
-#             wks_ago = i
-#             week_num_wks_ago = "week num " + str(i) + " wks ago"
-#             year_wks_ago = "year " + str(i) + " wks ago"
-#             #player_wks_ago = "player " + str(i) + " wks ago"
-#             team_wk_year = 'team_wk_year ' + str(i) + " wks ago"
-#             if(i == 1):
-#                 curr_wk = "week_num"
-#                 curr_yr = "year"
-#                 test_df[curr_wk] = test_df['week_num']
-#                 test_df[curr_yr] = test_df['year']
-#                 test_df[week_num_wks_ago] = np.where(test_df[curr_wk] == 1, 17, test_df[curr_wk] - 1)
-#                 test_df[year_wks_ago] = np.where(test_df[curr_wk] == 1, test_df[curr_yr]-1, test_df[curr_yr])
-#             else:
-#                 curr_wk = "week num " + str(i-1) + " wks ago"
-#                 curr_yr = "year " + str(i-1) + " wks ago"
-#                 test_df[week_num_wks_ago] = np.where(test_df[curr_wk] == 1, 17, test_df[curr_wk]-1)
-#                 test_df[year_wks_ago] = np.where(test_df[curr_wk] == 1, test_df[curr_yr] -1, test_df[curr_yr])
-
-#             test_df[team_wk_year] = test_df['CITY'] + " " + test_df[week_num_wks_ago].astype(str) + " " + test_df[year_wks_ago].astype(str)
-        
-   #     return new_df2
             
         test_df=test_df2
         new_def_df = pd.DataFrame()
@@ -1768,29 +1552,6 @@ def position_feat_eng_df_creation2(new_df2, def_df, position,
 
         
         new_def_df2 = new_def_df.drop(columns = [#'week num 1 wks ago', 'year 1 wks ago', 'week num 2 wks ago',
-               #'year 2 wks ago', 'week num 3 wks ago', 'year 3 wks ago',
-               #'week num 4 wks ago', 'year 4 wks ago', 'week num 5 wks ago',
-               #'year 5 wks ago', 'week num 6 wks ago', 'year 6 wks ago',
-#                'week num 7 wks ago', 'year 7 wks ago', 'week num 8 wks ago',
-#                'year 8 wks ago', 'week num 9 wks ago', 'year 9 wks ago',
-#                'week num 10 wks ago', 'year 10 wks ago', 'week num 11 wks ago',
-#                'year 11 wks ago', 'week num 12 wks ago', 'year 12 wks ago',
-#                'week num 13 wks ago', 'year 13 wks ago', 'week num 14 wks ago',
-#                'year 14 wks ago', 'week num 15 wks ago', 'year 15 wks ago',
-#                'week num 16 wks ago', 'year 16 wks ago', 'week num 17 wks ago',
-#                'year 17 wks ago', 'week num 18 wks ago', 'year 18 wks ago',
-#                'week num 19 wks ago', 'year 19 wks ago', 'week num 20 wks ago',
-#                'year 20 wks ago', 'week num 21 wks ago', 'year 21 wks ago',
-#                'week num 22 wks ago', 'year 22 wks ago', 'week num 23 wks ago',
-#                'year 23 wks ago', 'week num 24 wks ago', 'year 24 wks ago',
-#                'week num 25 wks ago', 'year 25 wks ago', 'week num 26 wks ago',
-#                'year 26 wks ago', 'week num 27 wks ago', 'year 27 wks ago',
-#                'week num 28 wks ago', 'year 28 wks ago', 'week num 29 wks ago',
-#                'year 29 wks ago', 'week num 30 wks ago', 'year 30 wks ago',
-#                'week num 31 wks ago', 'year 31 wks ago', 'week num 32 wks ago',
-#                'year 32 wks ago', 'week num 33 wks ago', 'year 33 wks ago',
-#                'week num 34 wks ago', 'year 34 wks ago', 'week num 35 wks ago',
-              # 'year 35 wks ago',
                     'Team', 'CITY', 'Week', 'Sack', 'FR', 'INT', 'DefTD',
                'PA', 'PaYD', 'RuYd', 'Safety', 'KickTD', 'FPts', 'week_num',
                'year', 'Opp', 'away flag', 'opp_wk_year'
@@ -2685,8 +2446,10 @@ def cleanup_final_df(df, position):
     if (position == 'QB'):
         df = df[df['GS']=='*']
         df = df.drop(columns = [
-           'Player ','Rk','GS','Date','G#','Tm',
-            'home_away','Result','Player  1 wks ago','Date 1 wks ago',
+           #'Player ',
+            'Rk','GS',#'Date','G#','Tm',
+            #'home_away','Result',
+            'Player  1 wks ago','Date 1 wks ago',
             'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago','Opp 1 wks ago',
             'Result 1 wks ago', 'player_wk_year 1 wks ago', 
             'Player  2 wks ago','Date 2 wks ago',
@@ -2704,7 +2467,8 @@ def cleanup_final_df(df, position):
             'Player  6 wks ago','Date 6 wks ago',
             'Week 6 wks ago','Tm 6 wks ago','home_away 6 wks ago','Opp 6 wks ago',
             'Result 6 wks ago', 'player_wk_year 6 wks ago', 
-            'opp wk year','Team','CITY','week_num', 'year','Opp',
+            'opp wk year',#'Team','CITY',
+            'week_num', 'year','Opp',
             'away flag','opp_wk_year','opp Team 1wks ago',
             'opp CITY 1wks ago','opp away flag 1wks ago',
             'opp opp_wk_year 1wks ago','opp Team 2wks ago','opp CITY 2wks ago',
@@ -2750,8 +2514,10 @@ def cleanup_final_df(df, position):
         df['Year'] = df['Year'].astype(int)
         df = df[df['Year']>=2015]
         df = df.drop(columns = [
-             'Player ','Rk','GS','Date','G#','Tm',
-            'home_away','Result','Player  1 wks ago','Date 1 wks ago',
+            #'Player ',
+            'Rk','GS',#'Date','G#','Tm',
+            #'home_away','Result',
+            'Player  1 wks ago','Date 1 wks ago',
             'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago','Opp 1 wks ago',
             'Result 1 wks ago', 'player_wk_year 1 wks ago', 
             'Player  2 wks ago','Date 2 wks ago',
@@ -2769,7 +2535,8 @@ def cleanup_final_df(df, position):
             'Player  6 wks ago','Date 6 wks ago',
             'Week 6 wks ago','Tm 6 wks ago','home_away 6 wks ago','Opp 6 wks ago',
             'Result 6 wks ago', 'player_wk_year 6 wks ago', 
-            'opp wk year','Team','CITY','week_num', 'year','Opp',
+            'opp wk year',#'Team','CITY',
+            'week_num', 'year','Opp',
             'away flag','opp_wk_year','opp Team 1wks ago',
             'opp CITY 1wks ago','opp away flag 1wks ago',
             'opp opp_wk_year 1wks ago','opp Team 2wks ago','opp CITY 2wks ago',
@@ -2820,8 +2587,10 @@ def cleanup_final_df(df, position):
     elif(position == 'TE'):
         df['Year'] = df['Year'].astype(int)
         df = df[df['Year']>=2015]
-        df = df.drop(columns = ['Player ','Rk','GS','Date','G#','Tm',
-            'home_away','Result','Player  1 wks ago','Date 1 wks ago',
+        df = df.drop(columns = [#'Player ',
+            'Rk','GS',#'Date','G#','Tm',
+            #'home_away','Result',
+            'Player  1 wks ago','Date 1 wks ago',
             'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago','Opp 1 wks ago',
             'Result 1 wks ago', 'player_wk_year 1 wks ago', 
             'Player  2 wks ago','Date 2 wks ago',
@@ -2839,7 +2608,8 @@ def cleanup_final_df(df, position):
             'Player  6 wks ago','Date 6 wks ago',
             'Week 6 wks ago','Tm 6 wks ago','home_away 6 wks ago','Opp 6 wks ago',
             'Result 6 wks ago', 'player_wk_year 6 wks ago', 
-            'opp wk year','Team','CITY','week_num', 'year','Opp',
+            'opp wk year',#'Team','CITY',
+            'week_num', 'year','Opp',
             'away flag','opp_wk_year','opp Team 1wks ago',
             'opp CITY 1wks ago','opp away flag 1wks ago',
             'opp opp_wk_year 1wks ago','opp Team 2wks ago','opp CITY 2wks ago',
@@ -2886,8 +2656,10 @@ def cleanup_final_df(df, position):
     elif(position == 'K'):
         df['Year'] = df['Year'].astype(int)
         df = df[df['Year']>=2015]
-        df = df.drop(columns = ['Player ','Rk','GS','Date','G#','Tm',
-            'home_away','Result','Player  1 wks ago','Date 1 wks ago',
+        df = df.drop(columns = [#'Player ',
+            'Rk','GS',#'Date','G#','Tm',
+            #'home_away','Result',
+            'Player  1 wks ago','Date 1 wks ago',
             'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago','Opp 1 wks ago',
             'Result 1 wks ago', 'player_wk_year 1 wks ago', 
             'Player  2 wks ago','Date 2 wks ago',
@@ -2905,7 +2677,8 @@ def cleanup_final_df(df, position):
             'Player  6 wks ago','Date 6 wks ago',
             'Week 6 wks ago','Tm 6 wks ago','home_away 6 wks ago','Opp 6 wks ago',
             'Result 6 wks ago', 'player_wk_year 6 wks ago', 
-            'opp wk year','Team','CITY','week_num', 'year','Opp',
+            'opp wk year',#'Team','CITY',
+            'week_num', 'year','Opp',
             'away flag','opp_wk_year','opp Team 1wks ago',
             'opp CITY 1wks ago','opp away flag 1wks ago',
             'opp opp_wk_year 1wks ago','opp Team 2wks ago','opp CITY 2wks ago',
@@ -2942,7 +2715,8 @@ def cleanup_final_df(df, position):
         df['year'] = df['year'].astype(int)
         df = df[df['year']>2016]
         df = df.drop(columns = [
-            'Team','CITY','Week','week_num','year','Opp','opp_wk_year',
+            'Team','CITY','Week',#'week_num','year','Opp',
+            'opp_wk_year',
             'team_wk_year 1 wks ago', 'team_wk_year 2 wks ago',
             'team_wk_year 3 wks ago', 'team_wk_year 4 wks ago',
             'team_wk_year 5 wks ago', 'team_wk_year 6 wks ago',
@@ -3952,11 +3726,15 @@ def curr_wk_cleanup_final_df(df, position):
             'Passing AY/A','Passing Att','Passing Cmp','Passing Cmp%',
             'Passing Int','Passing Int', 'Passing Rate', 'Passing Sk',
             'Passing TD','Passing Y/A','Passing Yds','Passing Sack Yds Lost',
-            'Player ','Rushing Att','Rushing TD','Rushing Y/A',
+            #'Player ',
+            'Rushing Att','Rushing TD','Rushing Y/A',
             'Rushing Yds','Scoring 2PM','Scoring Pts','Scoring TD',
-            'Rk','GS','Year','Date','G#','Age','Tm','home_away',
-            'Result','Player  1 wks ago','Date 1 wks ago',
-            'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago',
+            'Rk','GS',#'Year','Date','G#',
+            'Age',#'Tm','home_away',
+            #'Result','Player  1 wks ago',
+            'Date 1 wks ago',
+            'Week 1 wks ago',#'Tm 1 wks ago',
+            'home_away 1 wks ago',
             'Opp 1 wks ago','Result 1 wks ago','player_wk_year 1 wks ago',
             'Player  2 wks ago','Date 2 wks ago',
             'Week 2 wks ago','Tm 2 wks ago','home_away 2 wks ago',
@@ -3973,7 +3751,8 @@ def curr_wk_cleanup_final_df(df, position):
             'Player  6 wks ago','Date 6 wks ago',
             'Week 6 wks ago','Tm 6 wks ago','home_away 6 wks ago',
             'Opp 6 wks ago','Result 6 wks ago','player_wk_year 6 wks ago',
-            'Team','Week','FR','INT','DefTD','PA','PaYD','RuYd',
+            #'Team',
+            'Week','FR','INT','DefTD','PA','PaYD','RuYd',
             'Safety','KickTD','FPts','week_num','year','away flag',
             'opp Team 1wks ago','opp CITY 1wks ago','opp away flag 1wks ago',
             'opp Team 2wks ago','opp CITY 2wks ago','opp away flag 2wks ago',
@@ -4025,16 +3804,20 @@ def curr_wk_cleanup_final_df(df, position):
             'Fumbles TD','Fumbles Yds','Kick Returns Rt','Kick Returns TD',
             'Kick Returns Y/Rt','Kick Returns Yds',
             'Off. Snaps Num','Off. Snaps Pct',
-            'Player ', 'Punt Returns Ret','Punt Returns TD',
+            #'Player ',
+            'Punt Returns Ret','Punt Returns TD',
             'Punt Returns Y/R','Punt Returns Yds','Receiving Ctch%',
             'Receiving Rec','Receiving TD','Receiving Tgt','Receiving Y/R',
             'Receiving Y/Tgt','Receiving Yds',
             'Rushing Att','Rushing TD','Rushing Y/A',
             'Rushing Yds','ST Snaps Num','ST Snaps Pct',
             'Scoring 2PM','Scoring Pts','Scoring TD',
-            'Rk','GS','Year','Date','G#','Age','Tm','home_away',
-            'Result','Player  1 wks ago','Date 1 wks ago',
-            'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago',
+            'Rk','GS',#'Year','Date','G#',
+            'Age',#'Tm','home_away',
+            #'Result','Player  1 wks ago',
+            'Date 1 wks ago',
+            'Week 1 wks ago',#'Tm 1 wks ago',
+            'home_away 1 wks ago',
             'Opp 1 wks ago','Result 1 wks ago','player_wk_year 1 wks ago',
            # 'team_wk_year 1 wks ago',
             'Player  2 wks ago','Date 2 wks ago',
@@ -4057,7 +3840,8 @@ def curr_wk_cleanup_final_df(df, position):
             'Week 6 wks ago','Tm 6 wks ago','home_away 6 wks ago',
             'Opp 6 wks ago','Result 6 wks ago','player_wk_year 6 wks ago',
            # 'team_wk_year 6 wks ago',
-            'Team','Week','Sack','FR','INT','DefTD','PA','PaYD','RuYd',
+            #'Team',
+            'Week','Sack','FR','INT','DefTD','PA','PaYD','RuYd',
             'Safety','KickTD','FPts','week_num','year','away flag',
             'opp Team 1wks ago','opp CITY 1wks ago','opp away flag 1wks ago',
             'opp Team 2wks ago','opp CITY 2wks ago','opp away flag 2wks ago',
@@ -4114,15 +3898,19 @@ def curr_wk_cleanup_final_df(df, position):
          'Fumbles FF','Fumbles FL','Fumbles FR','Fumbles Fmb',
             'Fumbles TD','Fumbles Yds',
             'Off. Snaps Num','Off. Snaps Pct',
-            'Player ','Receiving Ctch%',
+            #'Player ',
+            'Receiving Ctch%',
             'Receiving Rec','Receiving TD','Receiving Tgt','Receiving Y/R',
             'Receiving Y/Tgt','Receiving Yds',
             'Rushing Att','Rushing TD','Rushing Y/A',
             'Rushing Yds','ST Snaps Num','ST Snaps Pct',
             'Scoring 2PM','Scoring Pts','Scoring TD',
-            'Rk','GS','Year','Date','G#','Age','Tm','home_away',
-            'Result','Player  1 wks ago','Date 1 wks ago',
-            'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago',
+            'Rk','GS',#'Year','Date','G#',
+            'Age',#'Tm','home_away',
+            #'Result','Player  1 wks ago',
+            'Date 1 wks ago',
+            'Week 1 wks ago',#'Tm 1 wks ago',
+            'home_away 1 wks ago',
             'Opp 1 wks ago','Result 1 wks ago','player_wk_year 1 wks ago',
             #'team_wk_year 1 wks ago',
             'Player  2 wks ago','Date 2 wks ago',
@@ -4145,7 +3933,8 @@ def curr_wk_cleanup_final_df(df, position):
             'Week 6 wks ago','Tm 6 wks ago','home_away 6 wks ago',
             'Opp 6 wks ago','Result 6 wks ago','player_wk_year 6 wks ago',
             #'team_wk_year 6 wks ago',
-            'Team','Week','Sack','FR','INT','DefTD','PA','PaYD','RuYd',
+            #'Team',
+            'Week','Sack','FR','INT','DefTD','PA','PaYD','RuYd',
             'Safety','KickTD','FPts','week_num','year','away flag',
             'opp Team 1wks ago','opp CITY 1wks ago','opp away flag 1wks ago',
             'opp Team 2wks ago','opp CITY 2wks ago','opp away flag 2wks ago',
@@ -4193,12 +3982,16 @@ def curr_wk_cleanup_final_df(df, position):
         ])
     elif(position == 'K'):
         df = df.drop(columns = [
-            'Player ', 'ST Snaps Num','ST Snaps Pct',
+            #'Player ',
+            'ST Snaps Num','ST Snaps Pct',
             'Scoring Pts','ScoringXPM','ScoringXPA','ScoringXP%',
             'ScoringFGM','ScoringFGA','ScoringFG%',
-            'Rk','GS','Year','Date','G#','Age','Tm','home_away',
-            'Result','Player  1 wks ago','Date 1 wks ago',
-            'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago',
+            'Rk','GS',#'Year','Date','G#',
+            'Age',#'Tm','home_away',
+            #'Result','Player  1 wks ago',
+            'Date 1 wks ago',
+            'Week 1 wks ago',#'Tm 1 wks ago',
+            'home_away 1 wks ago',
             'Opp 1 wks ago','Result 1 wks ago','player_wk_year 1 wks ago',
             #'team_wk_year 1 wks ago',
             'Player  2 wks ago','Date 2 wks ago',
@@ -4221,7 +4014,8 @@ def curr_wk_cleanup_final_df(df, position):
             'Week 6 wks ago','Tm 6 wks ago','home_away 6 wks ago',
             'Opp 6 wks ago','Result 6 wks ago','player_wk_year 6 wks ago',
             #'team_wk_year 6 wks ago',
-            'Team','Week','Sack','FR','INT','DefTD','PA','PaYD','RuYd',
+            #'Team',
+            'Week','Sack','FR','INT','DefTD','PA','PaYD','RuYd',
             'Safety','KickTD','FPts','week_num','year','away flag',
             'opp Team 1wks ago','opp CITY 1wks ago','opp away flag 1wks ago',
             'opp Team 2wks ago','opp CITY 2wks ago','opp away flag 2wks ago',
@@ -4262,7 +4056,7 @@ def curr_wk_cleanup_final_df(df, position):
             'Team',
             #'CITY','Week',
             'FPts','week_num',#'year',
-            'Opp',#'team_wk_year',
+            #'Opp',#'team_wk_year',
             'opp_wk_year','Year',
             'TEAM','Opponent','team_wk_year 1 wks ago','team_wk_year 2 wks ago',
             'team_wk_year 3 wks ago','team_wk_year 4 wks ago',
