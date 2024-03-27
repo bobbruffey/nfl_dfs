@@ -51,3 +51,11 @@ def prepare_modeling_df(df, position):
                             ])
     
     return df
+
+def fpts_histogram(df, dv):
+    
+    sns.displot(df[dv], hist = True,
+                bins = int(180/5), color = 'blue',
+                hist_kws = {'edgecolor':'black'},
+                kde_kws = {'linewidth':4})
+
