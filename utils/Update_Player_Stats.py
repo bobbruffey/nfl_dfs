@@ -406,18 +406,14 @@ def pull_all_player_data(player_df, def_df, position):
         
     #if (position == 'QB'):
         qb = player_df[player_df['Position'] == position]
-        qb = qb[qb['Player'] != 'Zach Miller']
         qb = qb.reset_index()
-        qb = qb.drop(columns = ['index'])
-        
+        qb = qb.drop(columns = ['index'])        
         df_qb = pd.DataFrame()
-        print('test')
 
         for i in range(0,len(qb)):
         #for i in range(len(qb)):
             try:
                 time.sleep(3.1)
-                print(i)
                 player = qb['Player'][i]
                 print(qb['Player'][i])
                 url = qb['Gamelog'][i]
