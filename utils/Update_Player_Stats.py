@@ -2443,7 +2443,7 @@ def cleanup_final_df(df, position):
         df = df[df['GS']=='*']
         df = df.drop(columns = [
            #'Player ',
-            'Rk','GS',#'Date','G#','Tm',
+            'Rk',#'GS','Date','G#','Tm',
             #'home_away','Result',
             'Player  1 wks ago','Date 1 wks ago',
             'Week 1 wks ago','Tm 1 wks ago','home_away 1 wks ago','Opp 1 wks ago',

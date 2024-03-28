@@ -71,12 +71,16 @@ def player_points_curr_wk(df, position, year, week, file_save=None):
     if ((position == 'QB') |
         (position == 'RB') |
         (position == 'WR') |
-        (position == 'TE')):
+        (position == 'TE') |
+        (position == 'K')):
 
         df = df[['FantasyPoints','Player ',#'Player  1 wks ago', 
-                 'Position','Year','Date','G#','Tm',#'Tm 1 wks ago',
-                    'home_away','Result','Team','CITY']]
-        df = df.rename(columns = {'Team':'Opp','CITY':'Opp_City'#,
+                 'Position','Year','Date','G#',#'Tm',
+                 'team',#'Tm 1 wks ago',
+                    'home_away','Result',#'Team',
+                    'CITY']]
+        df = df.rename(columns = {#'Team':'Opp',
+                                'CITY':'Opp_City'#,
                                # 'Player  1 wks ago':'Player ',
                                # 'Tm 1 wks ago':'Tm'
                                   })
